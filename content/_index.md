@@ -54,7 +54,9 @@ La edición más difundida en español de los *Anales* es la de José Luis Moral
 Furneaux, H., ed. *The Annals of Tacitus*. 2 vols. Oxford: Clarendon Press, 1896.
 
 Goodyear, F. R. D., ed. *The Annals of Tacitus*. Cambridge: Cambridge University Press, 1972–1981.
+
 ——. *Tacitus*. Greece and Rome Surveys 4. Oxford: Oxford University Press, 1970.
+
 ——. “Tacitus.” *The Cambridge History of Classical Literature. Vol. II: Latin Literature*, edited by E.J. Kenney and 
 
 W.V. Clausen, Cambridge University Press, 1982, pp. 642–655.
