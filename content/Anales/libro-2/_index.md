@@ -1,18 +1,5 @@
 ---
-title: "Resumen por libros de los *Anales* de Tácito"
-date: "2025-05-06"
-description: "Desglose interactivo por libros de los *Anales* de Tácito, con eventos principales, elementos literarios y temas tratados en cada sección de la obra."
-cover:
-  image: resumen-anales-tacito.webp
-  alt: "Manuscrito antiguo con texto latino representando los *Anales* de Tácito"
-  caption: "Detalle de un manuscrito con la obra de Tácito"
-  relative: false
-categories:
-  - anales
-  - roma
-  - tácito
-  - literatura
-  - historiografía
+title: Libro 2
 type: docs
 weight: 2
 prev: 
@@ -20,6 +7,12 @@ next:
 sidebar:
   open: true
 toc: false
+categories:
+  - anales
+  - roma
+  - tácito
+  - literatura
+  - historiografía
 ---
 
 <style>
@@ -52,8 +45,6 @@ summary::-webkit-details-marker {
 }
 </style>
 
-## Resumen de los libros de los *Anales* de Tácito
-
 <!-- Comienza acordeones -->
 <details>
 <summary><strong>Libro I</strong></summary>
@@ -64,7 +55,7 @@ summary::-webkit-details-marker {
 </ul>
 </details>
 
-<details>
+<details open>
 <summary><strong>Libro II</strong></summary>
 <ul>
 <li><strong>Contenido principal:</strong> Campañas de Germánico en Germania; juicio de Pisón; muerte de Germánico</li>
