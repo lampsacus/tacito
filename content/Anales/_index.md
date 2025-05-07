@@ -1,5 +1,5 @@
 ---
-title: "Los Anales de Tácito: estructura y alcance de la obra"
+title: "Estructura y alcance de los Anales"
 date: "2025-05-03"
 categories:
 - anales
