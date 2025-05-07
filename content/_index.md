@@ -25,7 +25,7 @@ cascade:
   type: docs
 ---
 
-![Busto de Tácito con toga roja.](/Anales/img/Tacito.webp "Tácito, el mas grande los historiadores romanos.")
+![Busto de Tácito con toga roja.](/content/img/Tacito.webp "Tácito, el mas grande los historiadores romanos.")
 
 Autor: Eduardo Alemán
 
