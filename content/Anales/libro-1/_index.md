@@ -297,9 +297,7 @@ prisa en cambiar su culpa en honor. Se encendieron los ánimos, y en una sola ac
 
 52. La noticia de estos sucesos provocó en Tiberio alegría y preocupación: se alegraba del aplastamiento de la sedición, pero el que Germánico se hubiera ganado el favor de los soldados con donativos pecuniarios y adelantándoles el licénciamiento, así como su gloria militar, le producía inquietud. [2] De todos modos dio cuenta al senado de sus hazañas e hizo grandes elogios de su valor, con palabras demasiado amañadas y ampulosas para que pareciera que lo sentía de verdad. [3] Más brevemente alabó a Druso y el final del motín del Ilírico, aunque con un discurso más entusiasta y sincero. [4] Todas las concesiones que Germánico había hecho a los ejércitos las mantuvo, incluso para los de Panonia.
 
-
-
-
+### Notas de José Luis Moralejo.
 
 ...
 
