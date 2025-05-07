@@ -18,15 +18,11 @@ sidebar:
 weight: 13
 ---
 
-Aunque existen muchas traducciones al inglés de los *Anales* de Tácito, en español las opciones son más limitadas. Por eso, en este sitio ofrecemos íntegramente la traducción de José Luis Moralejo, publicada por la editorial Gredos en 1979. Esta edición está disponible libremente en [archive.org](https://archive.org/details/ColeccionObrasGrecoLatinas1/019.TcitoanaleslibrosI-vi/mode/2up) bajo una licencia pública de Creative Commons “Atribución-SinDerivados 4.0 Internacional”.
+Aunque hay muchas traducciones al inglés de los *Anales* de Tácito, en español las opciones son bastante más escasas. Por eso, en este sitio compartimos la traducción completa de José Luis Moralejo, publicada por la editorial Gredos en 1979. Puedes consultarla libremente en [archive.org](https://archive.org/details/ColeccionObrasGrecoLatinas1/019.TcitoanaleslibrosI-vi/mode/2up), ya que está disponible bajo una licencia pública Creative Commons “Atribución-SinDerivados 4.0 Internacional”.
 
-Esta licencia permite copiar y compartir el material en cualquier formato, incluso con fines comerciales, siempre que se reconozca la autoría de forma adecuada, se incluya un enlace a la licencia y se indique si se han realizado cambios. Eso sí: no está permitido modificar el texto ni sugerir que la autora o el editor respaldan su uso.
+Esta licencia permite copiar y distribuir el texto en cualquier medio o formato, incluso con fines comerciales, siempre que se dé el crédito correspondiente, se incluya el [enlace a la licencia](https://creativecommons.org/licenses/by-nd/4.0/) y se indique si se han hecho cambios (aunque no se permite modificar el contenido ni crear obras derivadas). Tampoco puede sugerirse que la autora o el editor respaldan su uso.
 
-Además de la traducción original, hemos incorporado materiales complementarios —como mapas, tablas y figuras— para facilitar su lectura y comprensión.
+Nosotros no hemos tocado el texto original: lo que sí añadimos son materiales didácticos —mapas, esquemas y figuras— pensados para acompañ
 
-**Enlaces útiles:**
-
-- 📄 **Licencia**: [https://creativecommons.org/licenses/by-nd/4.0/](https://creativecommons.org/licenses/by-nd/4.0/)
-- 📘 **Texto completo en archive.org**: [https://archive.org/details/ColeccionObrasGrecoLatinas1/019.TcitoanaleslibrosI-vi/mode/2up](https://archive.org/details/ColeccionObrasGrecoLatinas1/019.TcitoanaleslibrosI-vi/mode/2up)
 
 
