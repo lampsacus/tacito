@@ -22,7 +22,7 @@ Aunque hay muchas traducciones al inglés de los *Anales* de Tácito, en españo
 
 Esta licencia permite copiar y distribuir el texto en cualquier medio o formato, incluso con fines comerciales, siempre que se dé el crédito correspondiente, se incluya el [enlace a la licencia](https://creativecommons.org/licenses/by-nd/4.0/) y se indique si se han hecho cambios (aunque no se permite modificar el contenido ni crear obras derivadas). Tampoco puede sugerirse que la autora o el editor respaldan su uso.
 
-Nosotros no hemos tocado el texto original: lo que sí añadimos son materiales didácticos —mapas, esquemas y figuras— pensados para acompañ
+Nosotros no hemos tocado el texto original: lo que sí añadimos son materiales didácticos —mapas, esquemas y figuras— pensados para facilitar su lectura y comprensión. 
 
 
 
