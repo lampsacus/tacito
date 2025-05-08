@@ -69,6 +69,8 @@ Kraus, Christina Shuttleworth, and A. J. Woodman. *Latin Historians*. New Survey
 
 Martin, R. H. *Tacitus*. Berkeley and Los Angeles: University of California Press, 1981.
 
+Moralejo, José Luis, trad. *Tácito: Anales*. Madrid: Editorial Gredos, 1979.
+
 Seager, R. *Tiberius*. London: Eyre Methuen, 1972.
 
 Shotter, D. C. A., ed. and trans. *Tacitus: Annals IV*. Warminster: Aris & Phillips, 1989.
@@ -78,6 +80,4 @@ Syme, Ronald. *Tacitus*. 2 vols. Oxford: Clarendon Press, 1956.
 ——. *Ten Studies in Tacitus*. Oxford: Clarendon Press, 1970.
 
 Woodman, A. J., and R. H. Martin. *The Annals of Tacitus. Book 3*. Cambridge: Cambridge University Press, 1996.
-
-Moralejo, José Luis, trad. *Tácito: Anales*. Madrid: Editorial Gredos, 1979.
 
