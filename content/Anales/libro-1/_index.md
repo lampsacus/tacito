@@ -9,7 +9,7 @@ sidebar:
 toc: true
 ---
 
-Tácito. *Anales*. Libro 1. Edición de José Luis Moralejo, Biblioteca Clásica Gredos, vol. 19, Gredos, 1979.
+Tácito. *Anales*. Libros I-II. Edición de José Luis Moralejo, Biblioteca Clásica Gredos, vol. 19, Gredos, 1979.
 
 ## Sinopsis
 
