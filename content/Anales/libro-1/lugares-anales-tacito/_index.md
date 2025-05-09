@@ -71,8 +71,8 @@ A continuación se presenta una lista detallada de los lugares mencionados en el
 
 Puedes ver el mapa completo en la siguiente página:
 
-👉 [Ver mapa en nueva ventana](/tacito/static/mapas/mapa_interactivo_anales_tacito.html)
+👉 [Ver mapa en nueva ventana](/assets/mapas/mapa_interactivo_anales_tacito.html)
 
-<iframe src="/tacito/static/mapas/mapa_interactivo_anales_tacito.html" width="100%" height="600" style="border:none;"></iframe>
+<iframe src="/assets/mapas/mapa_interactivo_anales_tacito.html" width="100%" height="600" style="border:none;"></iframe>
 
 
