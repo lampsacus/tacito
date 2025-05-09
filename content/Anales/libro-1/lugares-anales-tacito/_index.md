@@ -16,6 +16,7 @@ sidebar:
   open: true
 weight: 14
 description: "Lista comentada de las regiones geográficas y ciudades citadas por Tácito en el primer libro de los Anales, con sus nombres latinos y contexto narrativo."
+draft: true
 ---
 
 A continuación se presenta una lista detallada de los lugares mencionados en el **Libro I** de los *Anales* de Tácito, acompañada de sus nombres latinos y el contexto en que aparecen en la narrativa.
