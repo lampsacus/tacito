@@ -341,15 +341,26 @@ estorbaran el paso por los bosques; las legiones siguen a corta distancia. [4] C
 
 107. Pueblos situados entre el Lippe y el Ems.
 
-
-
-
-
-
-
-. . .
-
 ## 53-54. Otros sucesos del año 14 d. C.
+
+53. El mismo año aconteció el óbito de Julia108, recluida tiempo atrás por su padre Augusto, a causa de sus escándalos, en la isla de Pandateria, y luego en la ciudad de Reggio, situada junto al estrecho de Sicilia. Había estado casada con Tiberio en los buenos días de Gayo y Lucio Césaresl09, y acabó por desdeñarlo como persona que no estaba a su altura; ésta fue la más profunda razón que llevó a Tiberio a retirarse a Rodas. [2] Una vez que alcanzó el imperio y ella se encontraba proscrita, deshonrada y, tras la muerte de Agripa Póstumo, privada de toda esperanza, la dejó perecer lentamente de hambre y miseria, pensando que su muerte, por lo lejano de su exilio, había de quedar en la oscuridad. [3] Similar motivo de ensañamiento tenía contra Sempronio Graco, de noble familia, agudo ingenio, y una elocuencia a la que daba mal uso, quien había seducido a la misma Julia cuando estaba casada con Marco Agripa. Y no fue ése el término de su pasión, pues una vez que ella fue entregada a Tiberio, aquel adúltero taimado encendía en ella la resistencia y el odio contra su marido. Una carta que dirigió Julia a su padre Augusto con acusaciones contra Tiberio se creía que había sido redactada por Graco. [4] Desterrado, pues, a la isla de Cercina110, en el mar de Africa, resistió catorce años de exilio. [5] Luego, los soldados enviados para matarlo lo encontraron sobre un promontorio de la ribera; algo malo se temía. Al llegar ellos les pidió un poco de tiempo para transmitir su última voluntad a su esposa Aliaría por medio de una carta, y luego ofreció su cuello a los verdugos. Por su firmeza ante la muerte no se mostró indigno del nombre de Sempronio, pero en su vida había sido un degenerado. Cuentan algunos que los soldados no fueron enviados desde Roma, sino por el procónsul de África Lucio Asprenatem, instigado por Tiberio, quien en vano esperaba que la responsabilidad de aquella muerte se atribuyera a Asprenate.
+
+54. Aquel año trajo también nuevos cultos, al instituirse el sacerdocio de los cofrades augustales a la manera en que antaño Tito Tacio había fundado el de los ticios para conservar los ritos sabinos112. Se eligieron a suerte veintiún notables de la ciudad, y se añadió a Tiberio y Druso y a Claudio y Germánico. Los Juegos Augustales, que entonces se celebraron [2] por vez primera, se vieron perturbados por discordias surgidas de la rivalidad entre histriones. Augusto se había mostrado indulgente con tal clase de espectáculos condescendiendo con Mecenas, quien estaba prendado por Batilo113; y en realidad tampoco él sentía aversión por esas actividades, por considerar político el mezclarse a las diversiones del vulgo. Distinta era la actitud de Tiberio; pero tras haberse tratado al pueblo con blandura durante tantos años no osaba todavía aplicarle un régimen más severo.
+
+### Notas de José Luis Moralejo.
+
+108. Seguimos en el año 14 d. C. Julia era la única hija de Augusto, casada sucesivamente con su primo Marcelo, con Agripa —del que dio descendencia al príncipe— y con Tiberio. Fue relegada por sus escándalos en el año 2 d. C,, y se cree que con ellos pudo tener alguna relación el destierro en que acabó su vida el poeta Ovidio. La isla de Pandateria era la actual Vandotena, en la bahía de Nápoles.
+
+109.  Hijos de Julia y Agripa.
+
+110. Actual Qerqenna, en el golfo de Sidra, frente a la costa de Túnez.
+
+111. Lucio Nonio Asprenate, cónsul en 6 d. C.
+
+112. Con el mítico rey Tito Tacio, que compartió con Rómulo el trono de Roma, se integra en la primitiva comunidad latina un núcleo de sabinos, pueblo vecino de estirpe itálica.
+
+113. Gayo Cilnio Mecenas, caballero romano, tal vez el más íntimo de los amigos de Augusto, fue el intermediario entre el
+príncipe y los grandes escritores del tiempo, a los que protegió, hasta el punto de que su apellido pasó a designar a todos los «mecenas«. Batilo era un actor de pantomimas.
 
 ## 55-72. Campaña de Germánico en Germania.
 
