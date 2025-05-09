@@ -15,150 +15,78 @@ categories:
   - historiografía
 ---
 
-<style>
-/* Acordeones minimalistas con animación, sin flechas */
-details {
-  overflow: hidden;
-  transition: max-height 0.6s ease, padding 0.4s ease;
-  max-height: 2.8rem;
-  border-bottom: 1px solid #ddd;
-  margin-bottom: 1.5rem;
-}
-details[open] {
-  max-height: 1000px;
-  padding-bottom: 1rem;
-}
-summary {
-  font-weight: 600;
-  font-size: 1.1rem;
-  cursor: pointer;
-  padding: 0.6rem 0;
-  color: #333;
-  transition: color 0.3s ease, padding-left 0.3s ease;
-}
-summary:hover {
-  color: #7c0f0f;
-  padding-left: 0.5rem;
-}
-summary::-webkit-details-marker {
-  display: none;
-}
-</style>
+Tácito. Anales. Libros I-II. Edición de José Luis Moralejo, Biblioteca Clásica Gredos, vol. 19, Gredos, 1979.
 
-<!-- Comienza acordeones -->
-<details>
-<summary><strong>Libro I</strong></summary>
-<ul>
-<li><strong>Contenido principal:</strong> Muerte de Augusto, ascenso de Tiberio, rebeliones militares en Panonia y Germania, comienzo del reinado de Tiberio</li>
-<li><strong>Elementos literarios:</strong> Transición imperial; ambigüedad de Tiberio; oratoria senatorial</li>
-<li><strong>Temas tratados:</strong> Disimulación política; herencia del principado; tensiones entre Senado y emperador</li>
-</ul>
-</details>
+## Sinopsis
 
-<details open>
-<summary><strong>Libro II</strong></summary>
-<ul>
-<li><strong>Contenido principal:</strong> Campañas de Germánico en Germania; juicio de Pisón; muerte de Germánico</li>
-<li><strong>Elementos literarios:</strong> Estilo dramático; descripciones militares y funerarias; simbolismo</li>
-<li><strong>Temas tratados:</strong> Lealtad militar; sospecha de envenenamiento; límites del poder imperial</li>
-</ul>
-</details>
+Año 16 d. C. (caps. 1-41)
 
-<details>
-<summary><strong>Libro III</strong></summary>
-<ul>
-<li><strong>Contenido principal:</strong> Juicio de Pisón y su suicidio; problemas financieros del Imperio; análisis social de Roma</li>
-<li><strong>Elementos literarios:</strong> Estilo jurídico; reflexiones morales</li>
-<li><strong>Temas tratados:</strong> Corrupción; decadencia moral; justicia como instrumento político</li>
-</ul>
-</details>
+Año 17 d. C. (caps. 41-52)
 
-<details>
-<summary><strong>Libro IV</strong></summary>
-<ul>
-<li><strong>Contenido principal:</strong> Apogeo de Sejano; persecuciones políticas; creciente aislamiento de Tiberio</li>
-<li><strong>Elementos literarios:</strong> Tensión creciente; simbolismo de la caída</li>
-<li><strong>Temas tratados:</strong> Intriga cortesana; traición; paranoia imperial</li>
-</ul>
-</details>
+Año 18 d. C. (caps. 53-58)
 
-<details>
-<summary><strong>Libro V (fragmentario)</strong></summary>
-<ul>
-<li><strong>Contenido principal:</strong> Comienzo del reinado de Calígula (perdido casi en su totalidad)</li>
-<li><strong>Estado del texto:</strong> Sobrevive solo un fragmento; pérdida considerable en la transmisión manuscrita</li>
-</ul>
-</details>
+## Año 19 d. C. (caps. 59-88)
 
-<details>
-<summary><strong>Libro VI</strong></summary>
-<ul>
-<li><strong>Contenido principal:</strong> Últimos años de Tiberio; caída y muerte de Sejano; tensiones con el Senado</li>
-<li><strong>Elementos literarios:</strong> Oscuridad narrativa; final trágico</li>
-<li><strong>Temas tratados:</strong> Soledad del poder; desconfianza; final de un ciclo</li>
-</ul>
-</details>
+1-4. Perturbaciones del Oriente.
 
-<details>
-<summary><strong>Libros VII–X (perdidos)</strong></summary>
-<ul>
-<li><strong>Contenido esperado:</strong> Reinado completo de Calígula; primeros años de Claudio</li>
-<li><strong>Notas:</strong> Esta sección está totalmente perdida en la transmisión</li>
-</ul>
-</details>
+5-26. Campañas de Germánico en Germania.
 
-<details>
-<summary><strong>Libro XI</strong></summary>
-<ul>
-<li><strong>Contenido principal:</strong> Matrimonio de Claudio con Mesalina; intrigas palaciegas; ejecución de Mesalina</li>
-<li><strong>Elementos literarios:</strong> Tragedia doméstica; sátira social</li>
-<li><strong>Temas tratados:</strong> Corrupción femenina; poder desde las sombras; debilidad imperial</li>
-</ul>
-</details>
+27-41. Sucesos interiores del año 16. Proceso de Libón.
 
-<details>
-<summary><strong>Libro XII</strong></summary>
-<ul>
-<li><strong>Contenido principal:</strong> Bodas de Claudio con Agripina; ascenso de Nerón; conquista de Britania</li>
-<li><strong>Elementos literarios:</strong> Contraste entre lo doméstico y lo imperial</li>
-<li><strong>Temas tratados:</strong> Manipulación dinástica; legitimidad política; ambición materna</li>
-</ul>
-</details>
+42-47. Asuntos del Oriente y Germania en el año 17.
 
-<details>
-<summary><strong>Libro XIII</strong></summary>
-<ul>
-<li><strong>Contenido principal:</strong> Muerte de Claudio; inicio del reinado de Nerón; asesinato de Británico</li>
-<li><strong>Elementos literarios:</strong> Transición dramática; simbolismo de la traición</li>
-<li><strong>Temas tratados:</strong> Ruptura generacional; poder absoluto; imagen pública</li>
-</ul>
-</details>
+48-51. Asuntos del interior en el año 17.
 
-<details>
-<summary><strong>Libro XIV</strong></summary>
-<ul>
-<li><strong>Contenido principal:</strong> Asesinato de Agripina; represión senatorial; suicidio de Séneca</li>
-<li><strong>Elementos literarios:</strong> Tragedia materna; filosofía estoica</li>
-<li><strong>Temas tratados:</strong> Parricidio; retórica del crimen; declive ético</li>
-</ul>
-</details>
+52\. Guerra de África.
 
-<details>
-<summary><strong>Libro XV</strong></summary>
-<ul>
-<li><strong>Contenido principal:</strong> Gran incendio de Roma; persecución a los cristianos; conjura de Pisón</li>
-<li><strong>Elementos literarios:</strong> Descripciones apocalípticas; estilo dramático</li>
-<li><strong>Temas tratados:</strong> Chivo expiatorio; tiranía; represión cultural</li>
-</ul>
-</details>
+53-61. Germánico en Oriente.
 
-<details>
-<summary><strong>Libro XVI (incompleto)</strong></summary>
-<ul>
-<li><strong>Contenido principal:</strong> Suicidio de Séneca; últimos años de Nerón (texto interrumpido)</li>
-<li><strong>Elementos literarios:</strong> Final inconcluso; tono elegíaco</li>
-<li><strong>Temas tratados:</strong> Muerte del sabio; decadencia final del principado</li>
-</ul>
-</details>
+62-63. Druso en Germania.
+
+64-68. Asuntos del Oriente.
+
+69-83. Muerte de Germánico.
+
+84-87. Sucesos del interior en el año 19: medidas sobre moralidad,
+religiones orientales y carestía.
+
+88\. Muerte y elogio de Arminio. 
 
 
+1. Durante el consulado de Sisenna Estatilio Tauro y Lucio Libón151 se produjeron perturbaciones en los reinos y en las provincias romanas del Oriente. Primero, entre los partos, que tras haber pedido y recibido de Roma un rey, aunque pertenecía a la familia de los Arsácidas152 lo rechazaban como a extranjero. [2] Se trataba de Vonones, entregado como rehén a Augusto por Fraates153. En efecto, Fraates, a pesar de haber rechazado a los ejércitos y generales romanos154, había dirigido a Augusto toda clase de muestras de respeto, enviándole una parte de su prole como garantía de amistad; y no tanto por miedo a nosotros como por desconfianza hacia sus paisanos.
+
+2.  Tras el fin de Fraates y de los reyes que le siguieron155 a causa de las matanzas intestinas acudieron a la Ciudad unos embajadores de los notables partos con la misión de hacer volver a Vonones, el mayor de sus hijos. El César pensó que era un honor para él, y lo colmó de riquezas. También los bárbaros lo recibieron con alegría, como suele ocurrir con los nuevos príncipes. [2] Pero luego sintieron vergüenza: los partos habían degenerado; habían ido a otro mundo a pedir un rey, contaminado por las costumbres de los enemigos; ya el solio de los Arsácidas se consideraba y se adjudicaba como una provincia romana; ¿dónde estaba aquella gloria de los que habían matado a Craso156 y puesto en fuga a Antonio, si un esclavo del César, que por tantos años había soportado la servidumbre, imperaba sobre los partos? [3] También el propio Vonones exasperaba los desprecios con su apartamiento de las costumbres de sus mayores: raramente cazaba, se preocupaba poco por los caballos; cuando marchaba por las ciudades era llevado en litera, y desdeñaba los banquetes a la usanza patria. También producían risa los griegos de su séquito, y el sello de su anillo estampado incluso en los utensilios más viles. [4] Eso sí, era fácilmente accesible y de una espontánea benevolencia, virtudes desconocidas para los partos y que por ello las consideraban vicios nuevos; bastaba que se apartara de sus costumbres para que aborrecieran por igual lo que de malo y de honesto en él había.
+
+3. Así las cosas, llamaron a Artábano, del linaje de los Arsácidas y criado entre los dahas157, quien, derrotado en el primer encuentro, repone sus fuerzas y se hace con el reino. El vencido Vonones halló refugio en Armenia, entonces tierra de nadie y vacilante entre el poder parto y el romano a causa del crimen de Antonio, quien, atrayéndose al rey de los armenios Artavasdes con apariencias de amistad, lo había cargado de cadenas para acabar dándole muerte158. [2] Su hijo Artaxias, enemigo nuestro por la memoria de su padre, se había protegido a sí mismo y a su reino con la fuerza de los Arsácidas. Asesinado Artaxias por una traición de sus allegados, César dio como rey a los armenios a Tigranes, quien fue llevado al reino por Tiberio Nerón159. Mas no le duró el imperio a Tigranes ni a su hijo e hija, aunque siguiendo la costumbre extranjera se habían unido en el matrimonio y en el reino.
+
+4. Más adelante Artavasdes, impuesto por orden de Augusto, fue destronado no sin pérdidas para nosotros. Entonces se delegó a Gayo César160 para arreglar las cosas de Armenia. Puso éste a la cabeza de los armenios a Ariobárzanes, medo de origen y bien acogido por ellos a causa de su notable prestancia fí- sica y brillante personalidad. Arrebatado Ariobárzanes por una muerte imprevista, no toleraron a su descen- dencia; tras probar el imperio de una mujer llamada Erato, a la que en breve depusieron, inciertos y sin rumbo, más que libres carentes de amo, adoptan como rey al huido Vonones. Ahora bien, ante las amenazas de Artábano, como poca defensa tenía en los armenios, y si se lo defendía con nuestras fuerzas ello significaria una guerra contra los partos, el gobernador de Siria Crético Silano161 lo hace venir y lo pone bajo custodia, conservándole la pompa y el nombre de rey. Cómo Vonones trató de escapar a este escarnio lo contaremos en su momento162.
+
+### Notas de José Luis Moralejo.
+
+151. Comienza la narración del año 16 d. C.
+
+152. Dinastía pártica fundada por Arsaces I, cuyo reinado se sitúa en la segunda mitad del siglo n i a, C.
+
+153. Vonones era el hijo mayor de Fraates IV (37-2 a. C.), que había estado bajo la protección de Augusto.
+
+154. Entre ellos a Marco Antonio en el 36 a. C.; véase más abajo, 2, 2.
+
+155. Fraates IV fue asesinado en el 2 a. C. por su hijo Fraataees o Fraates V, depuesto en el 5 d. C. por Orodes II, que fue a su vez muerto a causa de sus crueldades en 7 d. C.
+
+156. En la terrible derrota de Carrhae, en el 53 a. C.
+
+157. Pueblo escita asentado en el Cáucaso.
+
+158. Fue muerto en el año 30 a. C.
+
+159. En el año 20. César es, naturalmente, Augusto, y el encargado de la misión el futuro emperador Tiberio. El rey fue Tigranes II.
+
+160. El mayor de los nietos de Augusto; véase I 3, 3.
+
+161. Quinto Cecilio Metelo Crético Silano era su nombre completo; fue cónsul en 7 d. C. A la sazón era *legatus* del César en la provincia imperial de Siria.
+
+162. En cap. 68.
+
+5. Por lo demás, a Tiberio no le desagradó mucho la perturbación de las cosas del Oriente, pues le brindaba un pretexto para apartar a Germánico de las legiones acostumbradas163 y, colocándolo al frente de provincias nuevas, exponerlo a un tiempo al dolo y al azar. [2] Y él, más empeñado en apresurar la victoria cuanto mayores eran el afecto de sus soldados y la aversión de su tío, meditaba sobre los planes de guerra y sobre lo que de adverso y próspero le había acontecido en los ya tres años de lucha. [3] A los germanos se los podía desbaratar en combate de formaciones y sobre terreno llano; en cambio encontraban ayuda en los bosques, en los pantanos, en lo breve del verano y en lo precoz del invierno; a sus soldados no los afectaban tanto las heridas cuanto las jornadas de marcha y la pérdida de las armas; las Galias estaban cansadas de suministrar caballos; una larga columna de impedimenta se prestaba a emboscadas y era mala de defender. [4] En cambio, entrando por el mar, tendrían en sus manos el dominio, y cogerían por sorpresa al enemigo; se podría empezar antes la campaña y transportar a la par las legiones y los suministros; se llevaría intacta la caballería —hombres y monturas— al corazón de Germania entrando por las bocas de los ríos y siguiendo sus cursos.
+
+...
