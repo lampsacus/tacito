@@ -73,6 +73,6 @@ Puedes ver el mapa completo en la siguiente página:
 
 👉 [Ver mapa en nueva ventana](/mapas/mapa_interactivo_anales_tacito.html)
 
-<iframe src="/mapas/mapa_interactivo_anales_tacito.html" width="100%" height="600" style="border:none;"></iframe>
+<iframe src="/static/mapas/mapa_interactivo_anales_tacito.html" width="100%" height="600" style="border:none;"></iframe>
 
 
