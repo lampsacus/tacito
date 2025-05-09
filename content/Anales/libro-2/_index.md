@@ -52,7 +52,7 @@ religiones orientales y carestía.
 
 88\. Muerte y elogio de Arminio.
 
-### Perturbaciones del Oriente.
+### 1-4. Perturbaciones del Oriente.
 
 1. Durante el consulado de Sisenna Estatilio Tauro y Lucio Libón<sup>151</sup> se produjeron perturbaciones en los reinos y en las provincias romanas del Oriente. Primero, entre los partos, que tras haber pedido y recibido de Roma un rey, aunque pertenecía a la familia de los Arsácidas<sup>152</sup> lo rechazaban como a extranjero. [2] Se trataba de Vonones, entregado como rehén a Augusto por Fraates<sup>153</sup>. En efecto, Fraates, a pesar de haber rechazado a los ejércitos y generales romanos<sup>154</sup>, había dirigido a Augusto toda clase de muestras de respeto, enviándole una parte de su prole como garantía de amistad; y no tanto por miedo a nosotros como por desconfianza hacia sus paisanos.
 
@@ -88,7 +88,7 @@ religiones orientales y carestía.
 
 162. En cap. 68.
 
-### Campañas de Germánico en Germania.
+### 5-26. Campañas de Germánico en Germania.
 
 5. Por lo demás, a Tiberio no le desagradó mucho la perturbación de las cosas del Oriente, pues le brindaba un pretexto para apartar a Germánico de las legiones acostumbradas<sup>163</sup> y, colocándolo al frente de provincias nuevas, exponerlo a un tiempo al dolo y al azar. [2] Y él, más empeñado en apresurar la victoria cuanto mayores eran el afecto de sus soldados y la aversión de su tío, meditaba sobre los planes de guerra y sobre lo que de adverso y próspero le había acontecido en los ya tres años de lucha. [3] A los germanos se los podía desbaratar en combate de formaciones y sobre terreno llano; en cambio encontraban ayuda en los bosques, en los pantanos, en lo breve del verano y en lo precoz del invierno; a sus soldados no los afectaban tanto las heridas cuanto las jornadas de marcha y la pérdida de las armas; las Galias estaban cansadas de suministrar caballos; una larga columna de impedimenta se prestaba a emboscadas y era mala de defender. [4] En cambio, entrando por el mar, tendrían en sus manos el dominio, y cogerían por sorpresa al enemigo; se podría empezar antes la campaña y transportar a la par las legiones y los suministros; se llevaría intacta la caballería —hombres y monturas— al corazón de Germania entrando por las bocas de los ríos y siguiendo sus cursos.
 
