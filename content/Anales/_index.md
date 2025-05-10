@@ -22,3 +22,10 @@ author: Eduardo Alemán
 
 El folio 2r del manuscrito *Plut. 68.1*, conservado en la Biblioteca Medicea Laurenziana de Florencia, contiene la transcripción en latín del primer párrafo del *Libro I* de los *Anales* de Tácito, así como el título parcial de la obra, *Ab Excessu divi Augusti*. Este manuscrito, identificado bajo el código IT\:FI0100\_Plutei\_68.01, se trata de un códice latino copiado entre los siglos XI y XII, compuesto por 138 cuadernos de pergamino (190 × 240 mm). Aunque carece de fecha explícita, su datación paleográfica lo sitúa entre los años 1001 y 1100. Catalogado en el *Catalogus codicum Latinorum Bibliothecae Mediceae Laurentianae* (tomo II), este testimonio textual es de acceso público y figura bajo la referencia {IT\ICCU\RAVE\006303} {{431}}. Las imágenes digitalizadas del folio permiten apreciar la disposición textual y la caligrafía medieval empleada para la copia de uno de los textos históricos más influyentes de la antigüedad latina.
 
+## Cita
+
+- Tacitus. *Codex Laurentianus Mediceus 68.1. Phototypice editus.* Lugduni Batavorum: A. W. Lijthoff, 1902. F.1.5 (7).
+
+  Edición facsimilar del códice Laur. Plut. 68.1, uno de los manuscritos más antiguos y valiosos para el texto de Tácito. Esta reproducción fue publicada en Leiden a principios del siglo XX y sigue siendo un punto de referencia para los estudios paleográficos sobre los Anales y las Historias.
+
+
