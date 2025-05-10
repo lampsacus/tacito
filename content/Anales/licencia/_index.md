@@ -22,7 +22,7 @@ Si bien existen numerosas traducciones al inglés de los *Anales* de Tácito, la
 
 Dicha licencia permite la copia y distribución del material en cualquier medio o formato, incluso con fines comerciales, siempre que se otorgue el crédito adecuado, se incluya el [enlace a la licencia](https://creativecommons.org/licenses/by-nd/4.0/) y se indique si se han realizado modificaciones. No obstante, no se permite alterar el contenido ni generar obras derivadas, y tampoco puede implicarse que la autora o el editor respaldan su uso.
 
-El texto original se presenta sin modificaciones. No obstante, hemos incorporado materiales complementarios —como mapas, esquemas y figuras— con el propósito de facilitar su lectura, contextualización y comprensión.
+El texto original se presenta sin modificaciones. No obstante, hiremos incorporado materiales complementarios —como mapas, esquemas y figuras— con el propósito de facilitar su lectura, contextualización y comprensión.
 
 
 
