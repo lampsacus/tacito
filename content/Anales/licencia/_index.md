@@ -18,11 +18,11 @@ sidebar:
 weight: 14
 ---
 
-Aunque hay muchas traducciones al inglés de los *Anales* de Tácito, en español las opciones son bastante más escasas. Por eso, en este sitio compartimos la traducción completa de José Luis Moralejo, publicada por la editorial Gredos en 1979. Puedes consultarla libremente en [archive.org](https://archive.org/details/ColeccionObrasGrecoLatinas1/019.TcitoanaleslibrosI-vi/mode/2up), ya que está disponible bajo una licencia pública Creative Commons “Atribución-SinDerivados 4.0 Internacional”.
+Si bien existen numerosas traducciones al inglés de los *Anales* de Tácito, las versiones disponibles en español son considerablemente más limitadas. Por esta razón, este sitio pone a disposición del lector la traducción íntegra realizada por José Luis Moralejo, publicada por la editorial Gredos en 1979. Esta edición puede consultarse libremente en [archive.org](https://archive.org/details/ColeccionObrasGrecoLatinas1/019.TcitoanaleslibrosI-vi/mode/2up), en formato PDF y otros, ya que se encuentra bajo una licencia pública Creative Commons “Atribución-SinDerivados 4.0 Internacional”.
 
-Esta licencia permite copiar y distribuir el texto en cualquier medio o formato, incluso con fines comerciales, siempre que se dé el crédito correspondiente, se incluya el [enlace a la licencia](https://creativecommons.org/licenses/by-nd/4.0/) y se indique si se han hecho cambios (aunque no se permite modificar el contenido ni crear obras derivadas). Tampoco puede sugerirse que la autora o el editor respaldan su uso.
+Dicha licencia permite la copia y distribución del material en cualquier medio o formato, incluso con fines comerciales, siempre que se otorgue el crédito adecuado, se incluya el [enlace a la licencia](https://creativecommons.org/licenses/by-nd/4.0/) y se indique si se han realizado modificaciones. No obstante, no se permite alterar el contenido ni generar obras derivadas, y tampoco puede implicarse que la autora o el editor respaldan su uso.
 
-Nosotros no hemos tocado el texto original: lo que sí añadimos son materiales didácticos —mapas, esquemas y figuras— pensados para facilitar su lectura y comprensión. 
+El texto original se presenta sin modificaciones. No obstante, hemos incorporado materiales complementarios —como mapas, esquemas y figuras— con el propósito de facilitar su lectura, contextualización y comprensión.
 
 
 
