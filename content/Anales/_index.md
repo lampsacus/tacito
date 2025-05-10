@@ -18,7 +18,7 @@ author: Eduardo Alemán
 ---
 
 ![Folio 2r del manuscrito Plut.68.1](img/tacito-plut68-1.webp)
-*Folio 2r del manuscrito Plut.68.1 conservado en la Biblioteca Medicea Laurenziana donde puede verse la transcripción en latín del primer párrafo del libro primero al igual que el título parcial Ab Excessu divi Augusti.*
+*Folio 2r del manuscrito Plut.68.1 conservado en la Biblioteca Medicea Laurenziana donde puede verse la transcripción en latín del primer párrafo del libro primero al igual que el título parcial << Ab Excessu divi Augusti>>.*
 
 ## Descripción del objeto
 
