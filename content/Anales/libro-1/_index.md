@@ -91,9 +91,7 @@ Año 15 d. C. (caps. 55-81)
 ### Notas de José Luis Moralejo.
 
 31. Es bastante habitual en Tácito la inversión de los elementos componentes de los nombres propios; así tenemos aquí Póstumo Agripa frente al normal Agripa Póstumo de los capítulos 3, 4, etc.
-
 32. Caballero romano, sobrino, luego hijo adoptivo, del historiador Salustio.
-
 33. Es decir, de general en jefe; véase IV 74, 4.
 34. El legado «al pueblo» iba en realidad dirigido al tesoro público y era de 40 millones de sestercios; «a la plebe», es decir, a las tribus, fue a parar el resto de la cantidad global; véase SUETONIO , *Augusto* 101.
 35. El texto suplido —*urbanis quingenos* — se debe a Sauppe, con base en SUETONIO, *Augusto* 101.
