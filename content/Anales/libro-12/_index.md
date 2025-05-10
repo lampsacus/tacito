@@ -1,5 +1,5 @@
 ---
-title: Libro 12
+title: Libro XII
 type: docs
 weight: 8
 prev: 

@@ -1,5 +1,5 @@
 ---
-title: Libro 2
+title: Libro II
 type: docs
 weight: 2
 prev:

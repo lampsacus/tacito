@@ -25,8 +25,6 @@ cascade:
   type: docs
 ---
 
-![Busto de Tácito con toga roja](/img/busto_tacito.webp "Tácito: el más grande los historiadores romanos.")
-
 Autor: Eduardo Alemán
 
 Publio Cornelio Tácito (ca. 56 – ca. 120 d.C.) fue uno de los más importantes historiadores del mundo romano. Nacido probablemente en el seno de una familia ecuestre de la Galia Narbonense o del norte de Italia, Tácito desempeñó una brillante carrera política bajo los emperadores Flavio y Trajano, alcanzando el consulado en el año 97. Su cercanía al poder imperial, su formación retórica y su aguda percepción del deterioro moral y político del principado marcaron su estilo sobrio, denso y profundamente crítico.

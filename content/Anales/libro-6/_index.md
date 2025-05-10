@@ -1,5 +1,5 @@
 ---
-title: Libro 6
+title: Libro VI
 type: docs
 weight: 6
 prev: 
