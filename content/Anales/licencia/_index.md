@@ -15,7 +15,7 @@ toc: true
 type: docs
 sidebar:
   open: true
-weight: 14
+weight: 25
 ---
 
 Si bien existen numerosas traducciones al inglés de los *Anales* de Tácito, las versiones disponibles en español son considerablemente más limitadas. Por esta razón, este sitio pone a disposición del lector la traducción íntegra realizada por José Luis Moralejo, publicada por la editorial Gredos en 1979. Esta edición puede consultarse libremente en [archive.org](https://archive.org/details/ColeccionObrasGrecoLatinas1/019.TcitoanaleslibrosI-vi/mode/2up), en formato PDF y otros, ya que se encuentra bajo una licencia pública Creative Commons “Atribución-SinDerivados 4.0 Internacional”.
