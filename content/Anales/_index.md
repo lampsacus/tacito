@@ -17,7 +17,7 @@ toc: true
 author: Eduardo Alemán
 ---
 
-![Folio 2r del manuscrito Plut.68.1](images/tacito-plut68-1.webp)
+![Folio 2r del manuscrito Plut.68.1](img/tacito-plut68-1.webp)
 *Folio 2r del manuscrito Plut.68.1 conservado en la Biblioteca Medicea Laurenziana*
 
 ## Descripción del objeto
@@ -46,4 +46,4 @@ author: Eduardo Alemán
 - **Título:** Folio 2r  
 - **Imágenes digitalizadas originales:**  
   - [Imagen 1 – 2r](https://tecabml.contentdm.oclc.org/digital/iiif/plutei/1334411/full/full/0/default.jpg)  
-  - [Imagen 2 – Detalle](https://tecabml.contentdm.oclc.org/digital/iiif/plutei/1334412/full/full/0/default.jpg)
+  - [Imagen 2 – 2r](https://tecabml.contentdm.oclc.org/digital/iiif/plutei/1334412/full/full/0/default.jpg)
