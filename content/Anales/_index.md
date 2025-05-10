@@ -18,7 +18,7 @@ author: Eduardo Alemán
 ---
 
 ![Folio 2r del manuscrito Plut.68.1](img/tacito-plut68-1.webp)
-*Folio 2r del manuscrito Plut.68.1 conservado en la Biblioteca Medicea Laurenziana*
+*Folio 2r del manuscrito Plut.68.1 conservado en la Biblioteca Medicea Laurenziana donde puede verse la transcripción en latín del primer párrafo del libro primero.*
 
 ## Descripción del objeto
 
