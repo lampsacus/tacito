@@ -27,25 +27,44 @@ cascade:
 
 Autor: Eduardo Alemán
 
-Publio Cornelio Tácito (ca. 56 – ca. 120 d.C.) fue uno de los más importantes historiadores del mundo romano. Nacido probablemente en el seno de una familia ecuestre de la Galia Narbonense o del norte de Italia, Tácito desempeñó una brillante carrera política bajo los emperadores Flavio y Trajano, alcanzando el consulado en el año 97. Su cercanía al poder imperial, su formación retórica y su aguda percepción del deterioro moral y político del principado marcaron su estilo sobrio, denso y profundamente crítico.
+## Vida y obra de Tácito
 
-Tácito es autor de varias obras de carácter histórico y etnográfico, entre las que destacan el *Agricola*, una biografía laudatoria de su suegro; la *Germania*, un tratado etnográfico sobre los pueblos germánicos; los *Diálogos sobre los oradores*, que reflexiona sobre la decadencia de la elocuencia en Roma; las *Historias*, que abarcan los años del caos tras la muerte de Nerón (69–96 d.C.); y los *Anales*, su obra más ambiciosa y sombría, que reconstruye los reinados de Tiberio, Calígula, Claudio y Nerón, aunque de forma fragmentaria por la pérdida de varias secciones.
+Publio Cornelio Tácito (ca. 56 – ca. 120 d.C.) fue uno de los más influyentes escritores e historiadores de la antigüedad romana. A pesar de la relativa escasez de datos biográficos firmes, se sabe que nació en una familia de cierto prestigio social, probablemente de origen ecuestre, en la Galia Narbonense o en el norte de Italia, durante el reinado de Nerón. Su educación fue eminentemente retórica, como era común entre los miembros de la élite imperial, y fue alumno del célebre orador Quintiliano. Desde joven inició una carrera política notable bajo los emperadores de la dinastía Flavia, lo que lo llevó a ocupar los más altos cargos senatoriales: cuestor, pretor, y finalmente cónsul sufecto en el año 97 d.C., bajo el mandato de Nerva. Más tarde, ejerció como procónsul en Asia.
 
-La compleja estructura narrativa de los *Anales*, el uso constante del discurso indirecto libre, su manejo de la ironía, y una mirada profundamente escéptica sobre el poder han hecho de Tácito un autor central en la tradición occidental, comparado con frecuencia con Tucídides por su rigor y con Dante por su intensidad moral.
+La doble condición de Tácito —testigo directo de los acontecimientos y figura activa en la vida pública romana— alimenta su obra con una mezcla singular de cercanía institucional y desconfianza crítica. Su escritura da testimonio del escepticismo de un senador ilustrado que vivió el tránsito entre el absolutismo de Domiciano y las reformas de Trajano, periodo que marcó profundamente su visión moral e histórica del Imperio.
+
+## Obras principales
+
+El corpus taciteano que ha llegado hasta nosotros incluye textos de naturaleza diversa pero unidos por una reflexión constante sobre el poder, la libertad y la decadencia de la República:
+
+- **_Agricola_** (ca. 98): biografía encomiástica de su suegro, Gneo Julio Agrícola, gobernador de Britania, que al mismo tiempo constituye una velada crítica a la tiranía de Domiciano y una exaltación de las virtudes republicanas.
+- **_Germania_** (ca. 98): tratado etnográfico sobre los pueblos germánicos, que contrasta su supuesta pureza moral con la corrupción romana.
+- **_Diálogos sobre los oradores_** (_Dialogus de oratoribus_, ca. 102): disertación filosófica sobre la decadencia de la elocuencia y la libertad política.
+- **_Historias_** (_Historiae_): narra los años convulsos tras la muerte de Nerón, comenzando con el año 69 d.C. Solo se conservan los primeros cuatro libros y parte del quinto.
+- **_Anales_** (_Annales_): obra cumbre escrita en su vejez, que cubre los reinados de Tiberio, Calígula, Claudio y Nerón. Su tono sombrío y estructura fragmentaria la convierten en una meditación amarga sobre la autocracia romana.
+
+## Estilo e influencia
+
+Tácito es célebre por su estilo denso, aforístico e irónico. Emplea con maestría el discurso indirecto libre, y frecuentemente sugiere más de lo que dice explícitamente. Su técnica narrativa exige al lector reconstruir la interpretación moral detrás de los hechos. Esta complejidad ha llevado a compararlo con Tucídides por su rigor analítico, y con Dante por su intensidad ética.
+
+Su influencia en la tradición occidental ha sido profunda: desde el Renacimiento hasta la filosofía política moderna, Tácito ha sido leído como un analista de la corrupción del poder, del miedo como instrumento de gobierno y del precio de la libertad bajo regímenes autocráticos.
 
 ## Estudios sobre los *Anales*
 
-El estudio moderno de Tácito ha contado con importantes ediciones y comentarios críticos. La monumental edición alemana de Ernst Koestermann (*Annalen*, Heidelberg 1963–68) ofrece el análisis más exhaustivo hasta la fecha del conjunto de la obra. En el ámbito anglosajón, la edición de Henry Furneaux (*The Annals of Tacitus*, 2 vols., Oxford 1896) sigue siendo la única que cubre la totalidad de los *Anales* en inglés con comentario detallado, aunque ha sido superada en parte por trabajos más recientes y específicos.
+Entre las ediciones y estudios más relevantes destacan:
 
-F.R.D. Goodyear publicó una edición crítica en dos volúmenes (Cambridge 1972, 1981) que cubre hasta el final del libro II, con un aparato filológico excepcional. A.J. Woodman y R.H. Martin continuaron este esfuerzo con una edición del libro III (Cambridge 1996), mientras que D.C.A. Shotter editó y tradujo el libro IV en la colección Aris & Phillips (1989). En un nivel más introductorio, Goodyear también publicó un útil compendio titulado *Tacitus* (Greece and Rome Surveys 4, Oxford 1970), así como una entrada de referencia en *The Cambridge History of Classical Literature II* (1982).
+- **Ernst Koestermann**, _Annalen_ (Heidelberg, 1963–68): edición crítica alemana en cuatro tomos, la más completa filológicamente.
+- **Henry Furneaux**, _The Annals of Tacitus_ (2 vols., Oxford 1896): edición inglesa aún útil por su cobertura completa y sus notas detalladas.
+- **F.R.D. Goodyear**, _Annals I–II_ (Cambridge, 1972–81) y su monografía _Tacitus_ (Oxford, 1970).
+- **A.J. Woodman** y **R.H. Martin**, _Annals III_ (Cambridge, 1996).
+- **D.C.A. Shotter**, edición bilingüe del libro IV (Aris & Phillips, 1989).
+- **Ronald Syme**, _Tacitus_ (2 vols., Oxford 1956): la obra más influyente del siglo XX sobre el autor; y _Ten Studies in Tacitus_ (1970), donde se abordan temas centrales como la identidad senatorial de Tácito y su visión del principado.
 
-Entre las obras de análisis general, destacan los estudios de R.H. Martin (*Tacitus*, 1981), claro y sistemático; de Christina Kraus y A.J. Woodman (*Latin Historians*, 1997), que ofrece un balance actualizado; y de J. Henderson (“Tacitus/The World in Pieces”, *Ramus* 18, 1989), que propone una lectura fragmentaria y posmoderna del autor.
-
-Mención obligada merece Ronald Syme, cuya obra *Tacitus* (2 vols., Oxford 1956) es considerada la más autorizada en la materia: exigente, erudita, de lectura intensa, pero insoslayable. Syme también escribió *Ten Studies in Tacitus* (1970), donde destacan los ensayos “The Senator as Historian” y “The Political Opinions of Tacitus”, fundamentales para entender la relación entre la posición social del autor y su mirada crítica.
+Otros estudiosos como **Christina Kraus**, **J. Henderson**, **Woodman** y **Martin** han enriquecido el panorama crítico con aproximaciones estilísticas, posmodernas o narratológicas.
 
 ## Traducción al español
 
-La edición más difundida en español de los *Anales* es la de José Luis Moralejo, publicada por la editorial Gredos en 1979. Esta traducción forma parte de la prestigiosa Biblioteca Clásica y se distingue por su fidelidad al texto latino, su claridad estilística y sus notas explicativas. Moralejo logra un equilibrio entre el rigor filológico y la fluidez narrativa, permitiendo al lector hispanohablante acceder con profundidad a la voz irónica y trágica de Tácito.
+La traducción más destacada en lengua española, y la que reproducimos en este sitio, es la de **José Luis Moralejo**, publicada por **Gredos** en 1979 como parte de la *Biblioteca Clásica*. Esta versión, fiel al texto latino y acompañada de abundantes notas, logra transmitir la ironía, concisión y densidad moral del original. Es una edición de referencia tanto para lectores generales como para estudiosos del mundo romano.
 
 ## Bibliografía
 
