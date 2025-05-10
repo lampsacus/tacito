@@ -27,8 +27,6 @@ cascade:
 
 Autor: Eduardo Alemán
 
-## Vida y obra de Tácito
-
 Publio Cornelio Tácito (ca. 56 – ca. 120 d.C.) fue uno de los más influyentes escritores e historiadores de la antigüedad romana. A pesar de la relativa escasez de datos biográficos firmes, se sabe que nació en una familia de cierto prestigio social, probablemente de origen ecuestre, en la Galia Narbonense o en el norte de Italia, durante el reinado de Nerón. Su educación fue eminentemente retórica, como era común entre los miembros de la élite imperial, y fue alumno del célebre orador Quintiliano. Desde joven inició una carrera política notable bajo los emperadores de la dinastía Flavia, lo que lo llevó a ocupar los más altos cargos senatoriales: cuestor, pretor, y finalmente cónsul sufecto en el año 97 d.C., bajo el mandato de Nerva. Más tarde, ejerció como procónsul en Asia.
 
 La doble condición de Tácito —testigo directo de los acontecimientos y figura activa en la vida pública romana— alimenta su obra con una mezcla singular de cercanía institucional y desconfianza crítica. Su escritura da testimonio del escepticismo de un senador ilustrado que vivió el tránsito entre el absolutismo de Domiciano y las reformas de Trajano, periodo que marcó profundamente su visión moral e histórica del Imperio.
