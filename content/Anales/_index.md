@@ -17,4 +17,33 @@ toc: true
 author: Eduardo Alemán
 ---
 
-![Busto de Tácito con toga roja](/img/busto_tacito.webp "Tácito: el más grande los historiadores romanos. Busto de Tácito con toga roja recreado por ChatGPT. No existe un busto original de la época en que vivió, ni tan siquiera una imagen que date del imperio romano o la edad media.")
+![Folio 2r del manuscrito Plut.68.1](images/tacito-plut68-1.webp)
+*Folio 2r del manuscrito Plut.68.1 conservado en la Biblioteca Medicea Laurenziana*
+
+## Descripción del objeto
+
+- **Identificador:** IT:FI0100_Plutei_68.01  
+- **Título:** *Cornelius Tacitus*  
+- **Autor:** Cornelius Tacitus  
+- **Descripción:** Sin fecha explícita  
+- **Datación:** 1001–1100  
+- **Tipo:** Manuscrito  
+- **Formato:** Pergamino; 190 × 240 mm; 138 cuadernos  
+- **Signatura:** Plut.68.1  
+- **Derechos de acceso:** Público  
+
+### Ficha de catálogo
+
+> *Catalogus codicum Latinorum Bibliothecae Mediceae Laurentianae sub auspiciis Petri Leopoldi ... Ang. Mar. Bandinius i.v.d. ... recensuit illustravit edidit. Tomus 1. [- 5.]. Tomus 2. in quo grammatici, rethores, philologi, poetae, historici, cosmographi, astronomi, tam veteris quam recentioris aevi accuratissime recensentur …*  
+> Referencia: {IT\ICCU\RAVE\006303} {{431}}
+
+- **IIIF Manifest:** [Ver Manifest JSON](https://tecabml.contentdm.oclc.org/iiif/info/plutei/1334704/manifest.json)
+
+---
+
+## Descripción del ítem
+
+- **Título:** Folio 2r  
+- **Imágenes digitalizadas originales:**  
+  - [Imagen 1 – 2r](https://tecabml.contentdm.oclc.org/digital/iiif/plutei/1334411/full/full/0/default.jpg)  
+  - [Imagen 2 – Detalle](https://tecabml.contentdm.oclc.org/digital/iiif/plutei/1334412/full/full/0/default.jpg)
