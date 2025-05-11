@@ -30,7 +30,7 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/lampsacus/peloponeso"
+      url: "https://github.com/lampsacus/tacito"
       params:
         icon: github
 
