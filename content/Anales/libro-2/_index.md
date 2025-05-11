@@ -65,7 +65,7 @@ religiones orientales y carestía.
 ### Notas de José Luis Moralejo.
 
 151. Comienza la narración del año 16 d. C.
-152. Dinastía pártica fundada por Arsaces I, cuyo reinado se sitúa en la segunda mitad del siglo n i a, C.
+152. Dinastía pártica fundada por Arsaces I, cuyo reinado se sitúa en la segunda mitad del siglo III a, C.
 153. Vonones era el hijo mayor de Fraates IV (37-2 a. C. ), que había estado bajo la protección de Augusto.
 154. Entre ellos a Marco Antonio en el 36 a. C. ; véase más abajo, 2, 2.
 155. Fraates IV fue asesinado en el 2 a. C. por su hijo Fraataees o Fraates V, depuesto en el 5 d. C. por Orodes II, que fue a su vez muerto a causa de sus crueldades en 7 d. C.
