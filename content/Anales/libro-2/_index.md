@@ -1,4 +1,5 @@
 ---
+draft = true
 title: Libro II
 type: docs
 weight: 2
@@ -13,6 +14,7 @@ categories:
  - tácito
  - literatura
  - historiografía
+
 ---
 
 Tácito. *Anales*. Libros I-VI. Edición de José Luis Moralejo, Biblioteca Clásica Gredos, vol. 19, Gredos, 1979.

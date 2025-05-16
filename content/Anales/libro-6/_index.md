@@ -1,4 +1,6 @@
 ---
+draft = true
+draft = true
 title: Libro VI
 type: docs
 weight: 6
