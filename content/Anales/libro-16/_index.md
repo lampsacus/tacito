@@ -1,5 +1,4 @@
 ---
-draft = true
 title: Libro XVI
 type: docs
 weight: 12

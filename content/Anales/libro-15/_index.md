@@ -1,5 +1,4 @@
 ---
-draft = true
 title: Libro XV
 type: docs
 weight: 11

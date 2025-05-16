@@ -1,5 +1,4 @@
 ---
-draft = true
 title: Libro V
 type: docs
 weight: 5

@@ -1,5 +1,4 @@
 ---
-draft = true
 title: Libro III
 type: docs
 weight: 3
