@@ -7,6 +7,8 @@ next:
 sidebar:
   open: true
 toc: false
+draft: true
+draft: true
 ---
 <style>
 /* Acordeones minimalistas con animación, sin flechas */

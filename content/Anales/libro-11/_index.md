@@ -7,6 +7,7 @@ next:
 sidebar:
   open: true
 toc: false
+draft: true
 ---
 
 <style>
