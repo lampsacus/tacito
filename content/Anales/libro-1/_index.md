@@ -30,7 +30,7 @@ Año 15 d. C. (caps. 55-81)
 5. Primer triunvirato, del año 60; dictadura de Cesar del 49 al 44.
 6. Segundo triunvirato, del afio 43; principado de Augusto desde el 27.
 7. Primer nombre, y el más habitual en Tácito, del futuro emperador Calígula.
-8. Es la famosa declaración de principios de Tácito: sine ira et studio.
+8. Es la famosa declaración de principios de Tácito: *sine ira et studio*.
 
 ## 2-5. Historia sumaria del advenimiento del Principado. Muerte de Augusto y entronización de Tiberio.
 
