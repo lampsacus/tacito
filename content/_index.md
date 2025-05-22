@@ -64,7 +64,7 @@ La traducción más destacada en lengua española, y la que reproducimos en este
 
 ## Nota sobre la transcripción de la obra y conversión en formatos Markdown y HTML
 
-Para convertir el contenido a Markdown y HTML del libro primero (y pronto el segundo) de la edición de *Anales* de José Luis Moralejo, publicada por Gredos en 1979, hemos tenido que transcribir, revisar cuidadosamente y editar múltiples errores creados al copiar del PDF. En este sitio, se presenta, creemos que por primera vez [públicamente\] en la Web, el libro primero en susodichos formatos.
+Para convertir el contenido a Markdown y HTML del libro primero (y pronto el segundo) de la edición de *Anales* de José Luis Moralejo, publicada por Gredos en 1979, hemos tenido que transcribir, revisar cuidadosamente y editar múltiples errores generados al copiar del PDF. En este sitio, se presenta, creemos que por primera vez [públicamente\] en la Web, el libro primero en susodichos formatos.
 
 Se utilizaron las siguientes tecnologías: Pandoc, Python, Hugo, Markdown, Git, entre otras. La plantilla Hugo es: hextra.
 
