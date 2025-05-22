@@ -62,6 +62,12 @@ Otros estudiosos como **Christina Kraus**, **J. Henderson**, **Woodman** y **Mar
 
 La traducción más destacada en lengua española, y la que reproducimos en este sitio, es la de **José Luis Moralejo**, publicada por **Gredos** en 1979 como parte de la *Biblioteca Clásica*. Esta versión, fiel al texto latino y acompañada de abundantes notas, logra transmitir la ironía, concisión y densidad moral del original. Es una edición de referencia tanto para lectores generales como para estudiosos del mundo romano.
 
+## Nota sobre la transcripción de la obra y conversión en formatos Markdown y HTML
+
+Para convertir el contenido a Markdown y HTML del libro primero (y pronto el segundo) de la edición de *Anales* de José Luis Moralejo, publicada por Gredos en 1979, hemos tenido que transcribir, revisar cuidadosamente y editar múltiples errores provenientes del formato PDF. En este sitio, se presenta, creemos que por primera vez [públicamente\] en la Web, el libro primero en susodichos formatos.
+
+Se utilizaron las siguientes tecnologías: Pandoc, Python, Hugo, Markdown, Git, entre otras. La plantilla Hugo es: hextra.
+
 ## Bibliografía
 
 Furneaux, H., ed. *The Annals of Tacitus*. 2 vols. Oxford: Clarendon Press, 1896.
