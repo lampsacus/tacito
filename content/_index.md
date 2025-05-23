@@ -75,29 +75,15 @@ Se utilizaron las siguientes tecnologías y herramientas: _Pandoc_ para la conve
 ## Bibliografía
 
 - Furneaux, H., ed. _The Annals of Tacitus_. 2 vols. Oxford: Clarendon Press, 1896.
-
-- Goodyear, F. R. D., ed. _The Annals of Tacitus_. Cambridge: Cambridge University Press, 1972–1981.
-
-    -. _Tacitus_. Greece and Rome Surveys 4. Oxford: Oxford University Press, 1970.
-
-    -. “Tacitus.” _The Cambridge History of Classical Literature. Vol. II: Latin Literature_, edited by E.J. 
-  
-- Kenney and W.V. Clausen, Cambridge University Press, 1982, pp. 642–655.
-
+- Goodyear, F. R. D., ed. _The Annals of Tacitus_. Cambridge: Cambridge University Press, 1972–1981.  
+  —. _Tacitus_. Greece and Rome Surveys 4. Oxford: Oxford University Press, 1970.  
+  —. “Tacitus.” _The Cambridge History of Classical Literature. Vol. II: Latin Literature_, ed. E. J. Kenney y W. V. Clausen. Cambridge University Press, 1982, pp. 642–655.
 - Henderson, J. “Tacitus/The World in Pieces.” _Ramus_, vol. 18, 1989, pp. 167–210.
-
-- Kraus, Christina Shuttleworth, and A. J. Woodman. _Latin Historians_. New Surveys in the Classics 27. Oxford: Oxford University Press, 1997.
-
-- Martin, R. H. _Tacitus_. Berkeley and Los Angeles: University of California Press, 1981.
-
+- Kraus, Christina Shuttleworth y A. J. Woodman. _Latin Historians_. New Surveys in the Classics 27. Oxford: Oxford University Press, 1997.
+- Martin, R. H. _Tacitus_. Berkeley y Los Ángeles: University of California Press, 1981.
 - Moralejo, José Luis, trad. _Tácito: Anales_. Madrid: Editorial Gredos, 1979.
-
-- Seager, R. _Tiberius_. London: Eyre Methuen, 1972.
-
-- Shotter, D. C. A., ed. and trans. _Tacitus: Annals IV_. Warminster: Aris & Phillips, 1989.
-
-- Syme, Ronald. _Tacitus_. 2 vols. Oxford: Clarendon Press, 1956.
-
-    -. _Ten Studies in Tacitus_. Oxford: Clarendon Press, 1970.
-
-- Woodman, A. J., and R. H. Martin. _The Annals of Tacitus. Book 3_. Cambridge: Cambridge University Press, 1996.
+- Seager, R. _Tiberius_. Londres: Eyre Methuen, 1972.
+- Shotter, D. C. A., ed. y trad. _Tacitus: Annals IV_. Warminster: Aris & Phillips, 1989.
+- Syme, Ronald. _Tacitus_. 2 vols. Oxford: Clarendon Press, 1956.  
+  —. _Ten Studies in Tacitus_. Oxford: Clarendon Press, 1970.
+- Woodman, A. J. y R. H. Martin. _The Annals of Tacitus. Book 3_. Cambridge: Cambridge University Press, 1996.
