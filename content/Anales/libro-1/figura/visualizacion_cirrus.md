@@ -1,5 +1,5 @@
 ---
-title: Visualización Cirrus del Libro I
+title: Nube de palabras en el Libro I
 description: La visualización Cirrus, también conocida como nube de palabras, es una herramienta de visualización de texto que muestra las palabras más utilizadas en un documento o corpus de texto.
 date: 2025-05-24
 layout: "docs"
