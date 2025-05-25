@@ -21,24 +21,88 @@ Año 15 d. C. (caps. 55-81)
 
 1\. La ciudad de Roma estuvo al principio bajo el poder de reyes; la libertad y el consulado los estableció Lucio Bruto<sup>1</sup>. Las dictaduras se adoptaban con carácter temporal; tampoco la autoridad de los decémviros<sup>2</sup> duró más de dos años, ni mucho tiempo la potestad consular de los tribunos militares<sup>3</sup>. No fue larga la dominación de Cinna, como no lo fue la de Sila<sup>4</sup> ; el poder de Pompeyo y de Craso pasó pronto a manos de César<sup>5</sup>, y las armas de Lépido y de Antonio a las de Augusto<sup>6</sup>, el cual recibió bajo su imperio, con el nombre de príncipe, el mundo agotado por las discordias civiles. [2\] Pues bien, las fortunas y adversidades del viejo pueblo romano han sido historiadas por escritores ilustres, y tampoco a los tiempos de Augusto les faltaron notables ingenios que los narraran, hasta que al crecer la adulación se fueron echando atrás. Así, la historia de Tiberio y de Gayo<sup>7</sup> y la de Claudio y Nerón se escribió falseada por el miedo mientras estaban ellos en el poder; tras su muerte, amañada por los odios recientes. [3\] De ahí mi designio de tratar brevemente y sólo de los postreros momentos de Augusto, y luego el principado de Tiberio y lo demás sin encono ni parcialidad<sup>8</sup>, para los que no tengo causas próximas.
 
+### Notas de José Luis Moralejo
+
+1\. Según la tradición, ello tuvo lugar en el año 509 a. C. con la expulsión del último rey, Tarquinio el Soberbio. Tácito uti­liza aquí, como en varios otros lugares, libertas con un sentido prácticamente equivalente a «república».
+
+2\. Los nombrados para redactar las XII Tablas en los años 451-449 a. C.
+
+3\. Nombrados en varias ocasiones entre los años 444 y 367 a. C.
+
+4\. Cinna fue cónsul en los años 87-84; la dictadura de Sila tuvo lugar entre 82 y 79.
+
+5\. Primer triunvirato, del año 60; dictadura de Cesar del 49 al 44.
+
+6\. Segundo triunvirato, del afio 43; principado de Augusto desde el 27.
+
+7\. Primer nombre, y el más habitual en Tácito, del futuro emperador Calígula.
+
+8\. Es la famosa declaración de principios de Tácito: _sine ira et studio_.
+
 ## 2-5\. Historia sumaria del advenimiento del Principado. Muerte de Augusto y entronización de Tiberio
 
 2\. Después de que, muertos violentamente Bruto y Casio, no existía ya un ejército republicano<sup>9</sup>, que Pompeyo fue aplastado junto a Sicilia<sup>10</sup> , y que, eliminado Lépido y muerto Antonio<sup>11</sup>, no le quedaba ya tampoco al partido juliano otro jefe que César<sup>12</sup>, abandonó éste el título de triúmviro presentándose como cónsul, «satisfecho con el poder tribunicio para la defensa del pueblo»<sup>13</sup>. Tras seducir al ejército con recompensas, al pueblo con repartos de trigo, a todos con las delicias de la paz, se fue elevando paulatinamente; empezó a tomar para sí las prerrogativas del senado, de las magistraturas, de las leyes, sin que nadie se le opusiera, dado que los más decididos habían caído en las guerras o en las proscripciones, los que restaban de los nobles se veían enaltecidos con riquezas y honores en la misma medida en que se mostraban dispuestos a servirle, y encumbrados con la nueva situación preferían la seguridad presente al problemático pasado. [2\] Tampoco las provincias ponían mala cara a aquel estado de cosas, toda vez que desconfiaban del gobierno del senado y el pueblo a causa de las rencillas entre los poderosos y la codicia de los magistrados, sin que de mucho les valiera el apoyo de unas leyes obstaculizadas por la violencia, las intrigas y, en fin, por el dinero.
 
-3\. Por lo demás, Augusto, buscando apoyos para su dominio, enalteció a Claudio Marcelo<sup>14</sup>, hijo de su hermana y apenas un muchacho, con el pontificado y la edilidad curul, y a Marco Agripa<sup>15</sup>, de origen humilde pero buen soldado y compañero de su victoria, con el consulado dos años seguidos, haciéndolo su yerno tras la muerte de Marcelo; a Tiberio Nerón y Claudio Druso<sup>16</sup>, sus hijastros, los distinguió con el título de *imperator*17, y eso cuando aún conservaba entera a su familia. [2\] Pues a Gayo y Lucio, hijos de Agripa, los había hecho entrar en la familia de los Césares; su nombramiento como Príncipes de la Juventud cuando aún no habían dejado la pretexta infantil y su designación para el consulado, los había deseado ardientemente, si bien fingió no quererlos. [3\] Una vez que Agripa partió de esta vida, que a Lucio, cuando marchaba a los ejércitos de Hispania, y a Gayo, que volvía de Armenia gravemente herido, se los arrebató una muerte fatalmente prematura o tal vez una maniobra de su madrastra Livia<sup>18</sup> , y que, muerto Druso ya tiempo atrás, le quedaba de sus hijastros sólo Nerón<sup>19</sup> , todo se concentró en él: lo hizo hijo, colega en el imperio, consorte en la potestad tribunicia<sup>20</sup> , y fue presentado ostentosamente ante todos los ejércitos, ya no —como antes— con las oscuras artes de su madre, sino con abierta recomendación. [4\] En efecto, Livia se había impuesto de tal manera al ya decrépito Augusto, que éste relegó a la isla de Planasia<sup>21</sup> a su único nieto, Póstumo Agripa, muchacho carente, desde luego, de cualquier clase de aptitudes y de una fortaleza física que le producía un orgullo estúpido, pero inocente de cualquier infamia. [5\] En cambio, a Germánico<sup>22</sup>, hijo de Druso, lo puso al frente de ocho legiones junto al Rhin, y ordenó a Tiberio que lo adoptara por hijo, aunque tenía Tiberio un hijo ya crecido<sup>23</sup>, con el fin de proporcionarse un apoyo más. [6\] No quedaba por aquel tiempo guerra alguna, a no ser contra los germanos, motivada más por lavar la infamia del ejército perdido con Quintilio Varo<sup>24</sup> que por afán de extender el imperio o de una compensación que valiera la pena. [7\] En el interior estaban las cosas tranquilas, las magistraturas conservaban sus nombres; los más jóvenes habían nacido con posterioridad a la victoria de Accio, e incluso los más de los viejos en medio de las guerras civiles: ¿cuántos quedaban que hubieran visto la república?
+3\. Por lo demás, Augusto, buscando apoyos para su dominio, enalteció a Claudio Marcelo<sup>14</sup>, hijo de su hermana y apenas un muchacho, con el pontificado y la edilidad curul, y a Marco Agripa<sup>15</sup>, de origen humilde pero buen soldado y compañero de su victoria, con el consulado dos años seguidos, haciéndolo su yerno tras la muerte de Marcelo; a Tiberio Nerón y Claudio Druso<sup>16</sup>, sus hijastros, los distinguió con el título de *imperator*<sup>17</sup>, y eso cuando aún conservaba entera a su familia. [2\] Pues a Gayo y Lucio, hijos de Agripa, los había hecho entrar en la familia de los Césares; su nombramiento como Príncipes de la Juventud cuando aún no habían dejado la pretexta infantil y su designación para el consulado, los había deseado ardientemente, si bien fingió no quererlos. [3\] Una vez que Agripa partió de esta vida, que a Lucio, cuando marchaba a los ejércitos de Hispania, y a Gayo, que volvía de Armenia gravemente herido, se los arrebató una muerte fatalmente prematura o tal vez una maniobra de su madrastra Livia<sup>18</sup> , y que, muerto Druso ya tiempo atrás, le quedaba de sus hijastros sólo Nerón<sup>19</sup> , todo se concentró en él: lo hizo hijo, colega en el imperio, consorte en la potestad tribunicia<sup>20</sup> , y fue presentado ostentosamente ante todos los ejércitos, ya no —como antes— con las oscuras artes de su madre, sino con abierta recomendación. [4\] En efecto, Livia se había impuesto de tal manera al ya decrépito Augusto, que éste relegó a la isla de Planasia<sup>21</sup> a su único nieto, Póstumo Agripa, muchacho carente, desde luego, de cualquier clase de aptitudes y de una fortaleza física que le producía un orgullo estúpido, pero inocente de cualquier infamia. [5\] En cambio, a Germánico<sup>22</sup>, hijo de Druso, lo puso al frente de ocho legiones junto al Rhin, y ordenó a Tiberio que lo adoptara por hijo, aunque tenía Tiberio un hijo ya crecido<sup>23</sup>, con el fin de proporcionarse un apoyo más. [6\] No quedaba por aquel tiempo guerra alguna, a no ser contra los germanos, motivada más por lavar la infamia del ejército perdido con Quintilio Varo<sup>24</sup> que por afán de extender el imperio o de una compensación que valiera la pena. [7\] En el interior estaban las cosas tranquilas, las magistraturas conservaban sus nombres; los más jóvenes habían nacido con posterioridad a la victoria de Accio, e incluso los más de los viejos en medio de las guerras civiles: ¿cuántos quedaban que hubieran visto la república?
 4\. Así pues, transformado el estado de arriba abajo, nada quedaba ya de la vieja integridad: todos, abandonando el espíritu de igualdad, estaban pendientes de las órdenes del príncipe, sin temor alguno por el presente mientras Augusto, en el vigor de la edad, fue capaz de sostenerse a sí, a su casa y a la paz. [2\] Cuando su edad ya avanzada se vio fatigada además por las dolencias corporales, y se divisaban el final y nuevas esperanzas, sólo unos pocos hablaban —para nada— de los bienes de la libertad; los más temían una guerra, otros la deseaban. [3\] Una parte, con mucho la más numerosa, esparcía los más variados rumores sobre los nuevos amos que se venían encima: Agripa era de condición feroz, exasperada por la postergación, y ni por su edad ni por su experiencia práctica estaba a la altura de tan grave cargo; Tiberio Nerón había madurado con los años y probado su valor en la guerra, pero tenía la vieja soberbia ingénita en la familia Claudia, y muchos indicios de crueldad, aunque procuraba reprimirlos, le salían al exterior. [4\] Además —advertían— se había educado desde la primera infancia en una casa de reyes; se lo había colmado, cuando aún era un muchacho, de consulados y triunfos; y ni siquiera en los años pasados en el exilio de Rodas<sup>25</sup> con apariencia de retiro había alimentado en su interior más que odio y simulación y secretas concupiscencias. [5\] Estaba además su madre, con la falta de propio dominio, característica de las mujeres: habría que prestar servidumbre a una hembra y, encima, a dos muchachos que oprimirían al estado para algún día desgarrarlo<sup>26</sup>.
 
 5\. En medio de tales y parecidas cábalas se iba agravando el estado de salud de Augusto, y algunos sospechaban un crimen de su esposa. De hecho se había esparcido el rumor de que pocos meses antes, sin saberlo más que algunos elegidos y acompañado solamente por Fabio Máximo<sup>27</sup>, Augusto se había hecho llevar a Planasia a visitar a Agripa, y que allí había habido por ambas partes muchas lágrimas y señales de cariño, de donde parecía surgir la esperanza de que el muchacho fuera devuelto al hogar de su abuelo. [2\] Se decía que Máximo se lo había revelado a su esposa Marcia, y ésta a Livia, y que ello había llegado a oídos del César; que muerto Máximo no mucho después, sin que apareciera claro si de muerte provocada, se había oído en su funeral los gemidos de Marcia acusándose de ser la causa de la perdición de su marido. [3\] Comoquiera que fuera de ese asunto, Tiberio fue llamado por carta urgente de su madre cuando apenas había entrado en el Ilírico<sup>28</sup> ; no se sabe con certeza si cuando encontró a Augusto en la ciudad de Nola<sup>29</sup> se hallaba éste todavía con vida o había ya exhalado su espíritu. [4\] En efecto, Livia había colocado severas guardias en torno a la casa y por los caminos, y se publicaban de vez en cuando comunicados optimistas; hasta que, tras haberse proveído a lo que la ocasión exigía, un mismo anuncio dio cuenta del fallecimiento de Augusto y de que Tiberio se había hecho cargo del poder<sup>30</sup>.
+
+### Notas de José Luis Moralejo
+
+9\. Tras la batalla de Filipos, del año 42 a. C.
+
+10\. En batalla naval, entre Milas y Náuloco, en el 36 a. C. ; Sexto Pompeyo era hijo del rival de César; véase SUETONIO, _Augusto_ 16, 1.
+
+11\. Lépido quedó pronto al margen del triunvirato ; Antonio se suicidó en el año 30 en Alejandría, sitiada por Augusto tras la batalla de Accio.
+
+12\. Se refiere, naturalmente, al que luego será Augusto, hijo adoptivo de su tío-abuelo Julio César.
+
+13\. Tácito reproduce probablemente, y no sin ironía, pala­bras literates de Augusto; véase nota 41.
+
+14\. Marcelo, hijo de Octavia, hermana de Augusto, nació en 43 y murió en 23 a. C. Estuvo casado con Julia, hija del prín­cipe, y fue el primero de los frustrados sucesores de Augusto.
+
+15\. Marco Vipsanio Agripa, íntimo colaborador militar de Augusto y segundo marido de su única hija Julia, de la que tuvo a Gayo, Ludo, Agripina, Julia y Póstumo Agripa; murió en el 12 a. C.
+
+16\. Recuérdese que Tiberio y Druso eran hijos de la esposa de Augusto, Livia, con su primer marido, Tiberio Claudio Nerón; habían nacido en 42 y 38 a. C.
+
+17\. Preferirnos no traducir este título, que no corresponde, todavía, al de «emperador», sino al máximo grado militar, que era ostentado simultáneamente por mas de una persona como recompensa a méritos guerreros; véase III 74.
+
+18\. Gayo murió en el año 2, y Lucio en el 4 d. C. A sus nietos los había adoptado Augusto como hijos pensando en la suce­sión; de ahí la alusión a Livia como « madrastra», que más bien preferiría que el poder, como de hecho ocurrió, llegara a manos de su propio hijo Tiberio.
+
+19\. Druso murió en el 9 a. C. El Nerón que aquí se nombra es, naturalmente, Tiberio, cuyo nombre antes de ser adoptado por Augusto en el 4 d. C. era Tiberio Claudio Nerón.
+
+20\. Potestad que, por su especialísima importancia, retuvo Augusto durante casi todo su principado; véase nota 41.
+
+21\. Frente a la costa de Etruria, al SO. de la de Elba.
+
+22\. Nacido en 15 a. C.
+
+23\. Druso el joven, al que había tenido de su matrimonio con Vipsania.
+
+24\. En la célebre derrota del bosque de Teutoburgo, en 9 d. C. Véase nota 124.
+
+25\. Tiberio residió en la isla desde el 6 a. C. al 2\. d. C. Pu­dieron moverlo al retiro tanto la amargura por los escándalos de su esposa Julia, como la situación incómoda en que podia colocarlo el problema sucesorio; allí vivió rodeado de filósofos y adivinos.
+
+26\. Comentarios que corrían sobre Druso y Germánico, pese a la popularidad del segundo.
+
+27\. Cónsul del año 11 a. C.
+
+28\. Provincia situada en el territorio que corresponde, apro­ximadamente, a la actual Yugoslavia. Tiberio marchaba a hacerse cargo de los ejércitos del Danubio.
+
+29\. Ciudad de Campania, a unos 20 kilómetros al NE. de Nápoles.
+
+30\. Murió Augusto en Nola, el 19 de agosto del año 14 d. C.
 
 ## 6-15\. Acontecimientos subsiguientes a la sucesión
 
 6\. La primera hazaña del nuevo principado fue el asesinato de Póstumo Agripa<sup>31</sup>. A pesar de que lo cogió desprevenido e inerme, a duras penas logró acabar con él un centurión de ánimo decidido. Ninguna referencia al asunto hizo Tiberio en el senado, simulando ejecutar instrucciones de su padre, según las cuales habría ordenado al tribuno encargado de custodiar a Agripa que no dudara en darle muerte tan pronto él hubiera cumplido su último día. [2\] Cierto que Augusto se había quejado muchas veces y con saña de la conducta del muchacho, llegando a hacer sancionar su exilio por el senado; pero su dureza no llegó nunca hasta el asesinato de uno de los suyos, y no era creíble que hubiera provocado el de su nieto por la seguridad de su hijastro; más verosímil era que Tiberio y Livia —aquél por miedo, ésta por odios de madrastra— hubieran apresurado el asesinato del muchacho sospechoso y odiado. [3\] Al centurión que, según es costumbre en el ejército, le fue a dar cuenta de que estaba hecho lo que había ordenado, le respondió que él no había dado tal orden, y que habría que dar cuenta del hecho ante el senado. Cuando lo supo Salustio Crispo<sup>32</sup>, que estaba en el secreto —él había enviado al tribuno la orden escrita—, temiendo verse bajo una acusación igualmente peligrosa ya mintiera, ya declarara la verdad, advirtió a Livia que no debían divulgarse los secretos de la casa, los consejos de los amigos ni los servicios de los soldados, ni Tiberio quebrantar la fuerza del principado remitiendo todo al senado, por ser la condición del imperio el que no haya otras cuentas que las que se dan a uno solo.
 
-7\. Pero en Roma cónsules, senadores, caballeros, corrieron a convertirse en siervos. Cuanto más ilustres, con tanta más falsía, apresuramiento y estudiada expresión —que no parecieran alegres por la muerte del príncipe ni demasiado tristes por el advenimiento de un sucesor—, mezclaban lágrimas y alegría, lamentos y adulación. [2\] Los cónsules Sexto Pompeyo y Sexto Apuleyo fueron los primeros en prestar juramento de fidelidad a Tiberio César, y ante ellos Seyo Estrabón y Gayo Turranio: aquél, prefecto de las cohortes pretorias; éste, prefecto del suministro de grano; luego, el senado, el ejército y el pueblo. [3\] Pues Tiberio ponía por delante en todo a los cónsules, como si se tratara de la antigua república y no estuviera decidido a ejercer el imperio. Incluso al edicto por el que convocaba a los senadores a la curia no le puso otro encabezamiento que el de la potestad tribunicia recibida en tiempos de Augusto. [4\] Las palabras del edicto eran pocas y de tenor más que modesto: quería consultar al senado sobre los honores a tributar a su padre; no quería separarse de su cuerpo, y ése era el único cometido oficial que tomaba para sí. [5\] Ahora bien, muerto Augusto, había dado santo y seña a las cohortes pretorianas en calidad de *imperator*33 ; tenía guardias, armas y todo lo demás que es propio de una corte; los sollados lo escoltaban al Foro, los soldados lo escoltaban a la curia. Las cartas que envió a los ejércitos daban por sentado que se había convertido en príncipe; en ninguna parte, a no ser en el senado, se expresaba de manera vacilante. [6\] La causa principal era el miedo, no fuera que Germánico, en cuyas manos estaban tantas legiones e incalculables fuerzas aliadas auxiliares, y que gozaba de asombroso favor entre el pueblo, prefiriera tener el imperio a esperarlo. [7\] En interés de su propio prestigio procuraba parecer elegido y llamado por la república más que sinuosamente impuesto por las intrigas de una esposa y la adopción de un viejo. Más tarde se vio también que había aparentado este aire de duda para conocer las voluntades de los hombres influyentes; pues convirtiendo en acusaciones las palabras y las miradas las iba guardando dentro de sí.
+7\. Pero en Roma cónsules, senadores, caballeros, corrieron a convertirse en siervos. Cuanto más ilustres, con tanta más falsía, apresuramiento y estudiada expresión —que no parecieran alegres por la muerte del príncipe ni demasiado tristes por el advenimiento de un sucesor—, mezclaban lágrimas y alegría, lamentos y adulación. [2\] Los cónsules Sexto Pompeyo y Sexto Apuleyo fueron los primeros en prestar juramento de fidelidad a Tiberio César, y ante ellos Seyo Estrabón y Gayo Turranio: aquél, prefecto de las cohortes pretorias; éste, prefecto del suministro de grano; luego, el senado, el ejército y el pueblo. [3\] Pues Tiberio ponía por delante en todo a los cónsules, como si se tratara de la antigua república y no estuviera decidido a ejercer el imperio. Incluso al edicto por el que convocaba a los senadores a la curia no le puso otro encabezamiento que el de la potestad tribunicia recibida en tiempos de Augusto. [4\] Las palabras del edicto eran pocas y de tenor más que modesto: quería consultar al senado sobre los honores a tributar a su padre; no quería separarse de su cuerpo, y ése era el único cometido oficial que tomaba para sí. [5\] Ahora bien, muerto Augusto, había dado santo y seña a las cohortes pretorianas en calidad de *imperator*<sup>33</sup> ; tenía guardias, armas y todo lo demás que es propio de una corte; los sollados lo escoltaban al Foro, los soldados lo escoltaban a la curia. Las cartas que envió a los ejércitos daban por sentado que se había convertido en príncipe; en ninguna parte, a no ser en el senado, se expresaba de manera vacilante. [6\] La causa principal era el miedo, no fuera que Germánico, en cuyas manos estaban tantas legiones e incalculables fuerzas aliadas auxiliares, y que gozaba de asombroso favor entre el pueblo, prefiriera tener el imperio a esperarlo. [7\] En interés de su propio prestigio procuraba parecer elegido y llamado por la república más que sinuosamente impuesto por las intrigas de una esposa y la adopción de un viejo. Más tarde se vio también que había aparentado este aire de duda para conocer las voluntades de los hombres influyentes; pues convirtiendo en acusaciones las palabras y las miradas las iba guardando dentro de sí.
 
 8\. El primer día de senado no permitió que se tratara más que de las últimas disposiciones referentes a Augusto, cuyo testamento, que fue presentado por las vírgenes vestales, señalaba a Tiberio y Livia como herederos. Livia era introducida por adopción en la familia Julia y tomaba el nombre de Augusta; como segundos herederos había inscrito a sus nietos y biznietos, y en tercer grado a los notables del estado; la mayoría de ellos, personas a quienes odiaba, haciéndolo por jactancia y afán de gloria ante la posteridad. [2\] Sus legados no iban más allá de lo normal entre ciudadanos, a no ser que donó al pueblo y a la plebe 43.500.000 sestercios<sup>34</sup>, a los soldados de las cohortes pretorianas mil a cada uno, < quinientos a los soldados urbanos ><sup>35</sup>, a los legionarios y a las cohortes de ciudadanos romanos trescientos por cabeza. [3\] Luego se trató de los honores; buscando los más insignes propusieron, Galo Asinio, que el cortejo pasara bajo un arco triunfal, y Lucio Arruncio que se exhibieran a la cabeza los títulos de las leyes por él promulgadas y los nombres de los pueblos por él vencidos. [4\] Proponía además Mesala Valerio que se renovara anualmente el juramento a nombre de Tiberio; y preguntado por Tiberio si había exteriorizado tal iniciativa por mandato suyo, respondió que lo había dicho espontáneamente, y que en las cosas que se refieren a la república no había de usar sino de su propio parecer, aun exponiéndose a molestar: ¡era ya lo último que quedaba por ver en materia de adulación! [5\] Claman a coro los padres<sup>36</sup> que el cuerpo debe ser llevado a la pira a hombros de senadores. Accedió<sup>37</sup> el César con una modestia no exenta de arrogancia, y por medio de un edicto advirtió al pueblo para que —al igual que antaño había perturbado el funeral del Divino Julio por exceso de celo— no pretendiera quemar también a Augusto en el Foro, en lugar de en el Campo de Marte, lugar señalado para su sepultura<sup>38</sup>. [6\] El día del funeral estaban los soldados como en pie de guerra, con gran risa de quienes habían visto ellos mismos o sabido por sus padres del día aquel de la servidumbre todavía fresca y de la libertad en vano buscada, cuando la muerte del dictador César les parecía a unos el hecho más lamentable, a otros el más hermoso: «ahora —se decía— un príncipe anciano, de largo reinado, incluso tras haberse asegurado las fortunas de sus herederos a costa de la república, necesita protección militar para que sea tranquila su sepultura».
 
-9\. Con tal motivo mucho se habló del propio Augusto, prestando los más su admiración a verdaderas banalidades: que el mismo día había sido antaño el primero en que había ejercido el imperio y ahora el último de su vida<sup>39</sup> ; que había terminado su vida en Nola, en la misma casa y habitación en que su padre Octavio. [2\] Se celebraba incluso el número de sus consulados, con el que había igualado a Valerio Corvo y a Gayo Mario juntos<sup>40</sup>, su potestad tribunicia, prolongada sin interrupción por treinta y siete años<sup>41</sup>, el título de imperator conseguido veintiuna veces, y otros honores multiplicados o nuevos. En cambio, entre la [3\] gente sensata su vida era objeto de juicios contrapuestos, que ya la enaltecían, ya la censuraban. Decían los unos que la piedad para con su padre y la crisis de la república, en la que no había entonces lugar para las leyes, eran las que lo habían arrastrado a la guerra civil, la cual no puede preverse ni realizarse con arreglo a la moral. [4\] Muchas concesiones había hecho a Antonio con tal de castigar a los que habían matado a su padre<sup>42</sup>, y muchas también a Lépido. Después de que éste se hubiera hundido por su falta de energía y aquél acabara perdido por sus excesos, no quedaba para la patria en discordia otro remedio que el gobierno de un solo hombre. [5\] Sin embargo, no había consolidado el estado con una monarquía ni con una dictadura, sino con el simple título de príncipe<sup>43</sup>; su imperio estaba resguardado por el mar Océano o por remotos ríos<sup>44</sup> ; las legiones, las provincias, las flotas, todo estaba estrechamente unido; el derecho reinaba entre los ciudadanos, la sumisión entre los aliados; la propia Ciudad 45 había sido magníficamente embellecida; en bien pocos casos se había empleado la fuerza, y ello por garantizar a los demás la paz.
+9\. Con tal motivo mucho se habló del propio Augusto, prestando los más su admiración a verdaderas banalidades: que el mismo día había sido antaño el primero en que había ejercido el imperio y ahora el último de su vida<sup>39</sup> ; que había terminado su vida en Nola, en la misma casa y habitación en que su padre Octavio. [2\] Se celebraba incluso el número de sus consulados, con el que había igualado a Valerio Corvo y a Gayo Mario juntos<sup>40</sup>, su potestad tribunicia, prolongada sin interrupción por treinta y siete años<sup>41</sup>, el título de imperator conseguido veintiuna veces, y otros honores multiplicados o nuevos. En cambio, entre la [3\] gente sensata su vida era objeto de juicios contrapuestos, que ya la enaltecían, ya la censuraban. Decían los unos que la piedad para con su padre y la crisis de la república, en la que no había entonces lugar para las leyes, eran las que lo habían arrastrado a la guerra civil, la cual no puede preverse ni realizarse con arreglo a la moral. [4\] Muchas concesiones había hecho a Antonio con tal de castigar a los que habían matado a su padre<sup>42</sup>, y muchas también a Lépido. Después de que éste se hubiera hundido por su falta de energía y aquél acabara perdido por sus excesos, no quedaba para la patria en discordia otro remedio que el gobierno de un solo hombre. [5\] Sin embargo, no había consolidado el estado con una monarquía ni con una dictadura, sino con el simple título de príncipe<sup>43</sup>; su imperio estaba resguardado por el mar Océano o por remotos ríos<sup>44</sup> ; las legiones, las provincias, las flotas, todo estaba estrechamente unido; el derecho reinaba entre los ciudadanos, la sumisión entre los aliados; la propia Ciudad<sup>45</sup> había sido magníficamente embellecida; en bien pocos casos se había empleado la fuerza, y ello por garantizar a los demás la paz.
 
 10\. Se decía en contra que la piedad para con su padre y las circunstancias por que pasaba la república las había tomado como pretexto; que, por lo demás, era la ambición de dominar lo que le había llevado a ganarse con dádivas a los veteranos; siendo un muchacho y un simple particular se había organizado un ejército, había corrompido a las legiones de un cónsul<sup>46</sup>, había simulado adhesión al partido de Pompeyo. [2\] Que más tarde, tras haber usurpado por un decreto de los senadores los haces y la jurisdicción del pretor, una vez muertos Hircio y Pansa<sup>47</sup> —ya los hubieran eliminado los enemigos, ya a Pansa un veneno vertido en su herida y a Hircio sus propios soldados y César<sup>48</sup> como maquinador del dolo—, se había apoderado de las tropas de ambos; que el consulado se lo había arrancado por la fuerza al senado, y que las armas que había tomado contra Antonio las había vuelto contra la república; las proscripciones de ciudadanos y los repartos de tierras no habían sido aprobados ni por quienes las habían llevado a término. [3\] Cierto que el final de Casio y de los Brutos había sido un tributo a las enemistades paternas, aunque sea lícito subordinar los odios privados a los intereses públicos; pero a Pompeyo lo había engañado con una apariencia de paz, a Lépido con una amistad simulada; más tarde Antonio, ganado por los pactos de Tarento y de Brindis y por el matrimonio con su hermana, había pagado con la muerte las consecuencias de una alianza desleal<sup>49</sup>. [4\] No había duda de que tras todo esto había llegado la paz, pero una paz sangrienta: los desastres de Lolio y Varo<sup>50</sup>, los asesinatos en Roma de los Varrones, los Egnacios, los Julos<sup>51</sup>. [5\] No se mostraban más moderados al hablar de su vida privada: le había quitado la esposa a Nerón, y en un verdadero escarnio había consultado a los pontífices si podía casarse según los ritos aquella mujer que había concebido y estaba a la espera de dar a luz<sup>52</sup>; los excesos de \*\*\*53 y de Vedio Polión; por último Livia, dura madre para la república, dura madrastra para la casa de los Césares. [6\] No había dejado honores para los dioses, pues se hacía venerar en templos y en imágenes divinas por flámenes y sacerdotes<sup>54</sup>. [7\] Ni siquiera a Tiberio lo había adoptado como sucesor por afecto o por cuidado de la república; antes bien, dado que había calado en su arrogancia y crueldad, se había buscado la gloria con la peor de las comparaciones. La verdad es que unos años antes Augusto, cuando solicitaba de los senadores la potestad tribunicia para Tiberio por segunda vez, aunque envueltos en términos laudatorios, le había lanzado algunos reproches en torno a su carácter, maneras y costumbres, aparentando excusarlo. [8\] Por lo demás, terminado el sepelio según el rito tradicional, se le decretan un templo y cultos divinos.
 
@@ -51,6 +115,77 @@ Año 15 d. C. (caps. 55-81)
 14\. Grande fue también la adulación de los senadores para con Augusta: los unos proponían que se la llamara _Parens Patriae_, los otros *Mater Patriae*65; los más, que se añadiera al nombre del César el apelativo de «hijo de Julia». [2\] Él repitió una y otra vez que se debía poner un límite a los honores de las mujeres, y que había de usar de la misma templanza en los que le atribuyeran a él mismo; por lo demás, inquieto por la envidia y tomando el encumbramiento de una mujer como una mengua para él, ni siquiera permitió que se le adjudicara un lictor<sup>66</sup>, y prohibió erigir un altar por su adopción y otras cosas por el estilo. [3\] En cambio, pidió para Germánico César el imperio proconsular<sup>67</sup>, y envió legados para comunicárselo y para, al mismo tiempo, consolar su tristeza por el fallecimiento de Augusto. La razón por la que no solicitó lo mismo para Druso fue que era cónsul designado y estaba presente. [4\] Nombró doce candidatos a la pretura, número establecido por Augusto; y cuando el senado le pidió que los aumentara, se obligó con juramento a no sobrepasarlo jamás.
 
 15\. Entonces por vez primera se trasladaron las elecciones del Campo de Marte al senado; pues hasta ese día, aunque las más trascendentes se hacían según el arbitrio del príncipe, todavía algunas se desarrollaban conforme a los intereses de las tribus. El pueblo no se quejó de que se le arrebatara su derecho sino con insignificantes rumores, y el senado, que así se libraba de tener que hacer donativos y ruegos humillantes, lo ejerció a gusto. Tiberio se limitó a recomendar no más de cuatro candidatos, que debían ser designados sin posibilidad de fracaso ni juego electoral. [2\] Entre las solicitudes presentadas por los tribunos de la plebe estaba la de organizar a sus propias expensas unos juegos que en memoria de Augusto se añadieron a los fastos y se llamaron Augustales. Sin embargo se votó a tal fin un presupuesto salido del erario, y que los tribunos usaran en el circo de vestidura triunfal; no se les permitía ir en carro. [3\] Luego, la celebración anual se transfirió al pretor al que correspondiera la jurisdicción entre ciudadanos y extranjeros.
+
+### Notas de José Luis Moralejo
+
+31\. Es bastante habitual en Tácito la inversión de los elementos componentes de los nombres propios; así tenemos aquí Póstumo Agripa frente al normal Agripa Póstumo de los capítulos 3, 4, etc.
+
+32\. Caballero romano, sobrino, luego hijo adoptivo, del historiador Salustio.
+
+33\. Es decir, de general en jefe; véase IV 74, 4.
+
+34\. El legado «al pueblo» iba en realidad dirigido al tesoro público y era de 40 millones de sestercios; «a la plebe», es decir, a las tribus, fue a parar el resto de la cantidad global; véase SUETONIO , _Augusto_ 101.
+
+35\. El texto suplido —_urbanis quingenos_ — se debe a Sauppe, con base en SUETONIO, _Augusto_ 101.
+
+36\. La de _patres_ (_conscripti_) es denominación tradicional de los senadores.
+
+37\. El verbo _remisit_ podría también traducirse por «declinó», aunque sea el sentido que hemos puesto en el texto el que parece más apoyado por otros traductores y los testimonios complementarios; puede verse al respecto la nota correspondiente de la edición de WUILLEUMIER.
+
+38\. Se trata del mausoleo familiar, conservado todavía, construido por Augusto en el extremo N. del Campo de Marte, entre el Tíber y la Vía Flaminia.
+
+39\. Se trata del 19 de agosto de los años 43 a. C. y 14 d. C.
+40\. Valerio Corvo había sido cónsul siete veces en el transcurso del siglo IV a. C. ; Gayo Mario, el dictador, seis veces entre 107 y 86 a. C.
+
+41\. Véase III 56; Augusto retuvo una potestad propia de tribuno de la plebe, magistratura de excepcional importancia en el juego político romano, desde el año 23 hasta su muerte, si bien la compartió con sus presuntos sucesores. Esta magistratura le daba derecho a convocar al senado y a interponer un veto a sus resoluciones en nombre de la plebe.
+
+42\. Julio César, su padre adoptivo.
+
+43\. Véase cap. 1; el título de _princeps_ era constitucionalmente atípico, y suponía una ambigüedad que Augusto parece haber mantenido deliberadamente mientras ejercía de hecho un supremo poder apoyado en su título de _imperator_ y en su potestad tribunicia.
+
+44\. En el momento de la muerte de Augusto eran límite oriental del imperio, en territorio europeo, el Rin y el Danubio; en el asiático lo era el Éufrates.
+
+45\. Tácito recurre, para referirse a Roma, a la habitual antonomasia de llamarla la _Urbs_. 46 Se refiere a Antonio y al año 44 a. C.
+
+46\. Se refiere a Antonio y al año 44 a. C.
+
+47\. Cónsules del año 43, dramáticamente caídos en el transcurso de las guerras civiles desarrolladas durante su magistratura.
+
+48\. Se refiere, naturalmente, a Augusto, entonces todavía César Octaviano.
+
+49\. Los pactos de Brindis (40 a. C. ) y de Tarento (37 a. C. ) supusieron sucesivas treguas en la lucha final por el poder único. Antonio desposó a Octavia, hermana de Augusto, a la que abandonó luego para unirse a Cleopatra.
+
+50\. En los años 16 a. C. y 9 d. C. , ambos en lucha contra los germanos.
+
+51\. Se trata de plurales «estilísticos» de un tipo también corriente en castellano: se transfiere la pluralidad de un conjunto a cada uno de sus miembros. Varrón y Egnacio perdieron la vida tras una conspiración contra Augusto en el año 23 a. C. En cuanto a Julo Antonio, hijo de Marco Antonio, fue castigado con la muerte en el 2 a. C. como amante de Julia, hija única de Augusto.
+
+52\. Sobre la tortuosa historia del matrimonio del que luego sería Augusto con Livia, véase V 1; tuvo lugar en el año 38 a. C.
+
+53\. Lugar fragmentario o corrompido en que se lee un _que tedii_ que no da sentido alguno; parece que el texto incomprensible oculta un nombre propio.
+
+54\. Los _flamines_ eran sacerdotes de Júpiter, Marte y Quirino. Del culto de Augusto se encargaban los _seuiri Augustales_.
+
+55\. SUETONIO (_Augusto_ 101) proporciona información detallada sobre este memorial.
+
+56\. Cónsul del año 8 a. C.
+
+57\. La expresión _in toga_ corresponde a las acciones notables en la vida política y civil de Roma, por contraposición a sus hechos militares.
+
+58\. Tiberio, cuyo matrimonio con Vipsania —madre de su hijo Druso— parece haber sido muy feliz, fue obligado por Augusto a repudiarla en 12 a. C. para casarse con su hija Julia al quedar ésta viuda de Agripa. Suetonio pinta con gran poder emotivo el sentimiento de Tiberio ante esta imposición, y cómo siguió, tras la separación, firme en su amor (cf. SUET . , _Tiberio_ 7).
+
+59\. Gayo Asinio Polión, cónsul en el 40 a. C. ; su larga vida (76 a. C. a 4 d. C. ) cubre toda la época de crisis de la república y consolidación del principado, en cuyos orígenes desempeñó numerosos cargos a pesar de sus antecedentes republicanos. Fue orador notable y poeta, protector y amigo de Virgilio, que le dedica la famosa _Égloga_ IV, aparte otras numerosas alusiones. Se le tiene por fundador de la primera biblioteca pública de Roma.
+60\. Emilio Lépido, cónsul en 6 d. C.
+
+61\. Gneo Calpurnio Pisón, cónsul en 7 a. C. Se lo tuvo por causante de la muerte de Germánico en el 19 d. C. , lo que le acarreó la suya en el 20\. Véase, especialmente, III 7 y sigs.
+
+62\. Como hace notar WUILLEUMIER , esta imputación a Tiberio sólo parece justificada en el caso de Asinio Galo.
+63\. Cónsules en 5 a. C. y 21 d. C. , respectivamente.
+
+64\. _Palatium_, de donde «palacio» como nombre común, era la denominación de la colina romana también llamada _mons Palatinus_. En él se hallaba la casa de Livia, que se convirtió más tarde en la de Augusto y de sus sucesores los Césares, quienes ampliaron el _palacio_ hasta ocupar la práctica totalidad de la colina.
+
+65\. El texto reza: _alii parentem, alii matrem patriae apellandam_. Algunos intérpretes —como WUILLEUMIER — no creen que el genitivo _patriae_ se refiera también a _parentem_, de manera que éste título vendría a ser para ellos simplemente «madre», o «madre del emperador». Nosotros creemos, al contrario, que el genitivo depende de ambos acusativos, y que la discusión de los senadores es sobre si llamarla _parens_ —literalmente «la que pare»— o _mater_, término de significación más restringida, aunque en ambos casos «de la patria». Nuestra interpretación nos parece confirmada por SUETONIO (_Tiberio_ 50, 3), quien dice que el príncipe no toleró que llamaran a su madre «parentem patriae». Hemos preferido no traducir las denominaciones por no existir un término adecuado para _parens_ a no ser el de «madre», que reclama para sí el inmediato _mater_ y con mayor derecho.
+
+66\. Funcionarios portadores de los _fasces_, adscritos a la compañía y servicio de magistrados y sacerdotes superiores.
 
 ## 16-30\. Motín de las legiones de Panonia
 
@@ -83,6 +218,46 @@ Año 15 d. C. (caps. 55-81)
 29\. Druso, convocada la asamblea al amanecer, aunque no era buen orador, con su ingénita dignidad les reprochó su anterior conducta, alabándoles la presente. Les dice que no se deja amilanar por el miedo ni por las amenazas; que si los ve inclinados a la subordinación, si se lo piden en tono de súplica, escribirá a su padre para que escuche benévolo los ruegos de las legiones. [2\] A petición de ellos, son enviados a Tiberio de nuevo el mismo Bleso y Lucio Aponio, caballero romano de la cohorte de Druso, y Justo Catonio, centurión de la primera cohorte. [3\] Hubo luego contraste de opiniones, dado que unos estimaban conveniente esperar el regreso de los comisionados, y entretanto calmar a la tropa tratándola con suavidad; otros, en cambio, que había que aplicar remedios más enérgicos: «todo es poco para la masa; aterroriza si no se le causa terror; una vez que se le mete miedo, se la puede despreciar»; añadían que mientras se encontraban dominados por la superstición era el momento de hacerles sentir también miedo del mando, quitando de en medio a los autores de la sedición. [4\] Druso era de natural dispuesto a las actitudes más duras: hace llamar y matar a Vibuleno y Percennio. Cuentan los más que fueron enterrados en la tienda del general; otros, que sus cuerpos fueron arrojados fuera del recinto para que sirvieran de ejemplo.
 
 30\. Entonces se emprendió la búsqueda de los principales perturbadores, y parte de ellos, que andaban dispersos fuera del campamento, fueron muertos por los centuriones o por los soldados de las cohortes pretorias, mientras que a otros los entregaron los propios manípulos como garantía de su lealtad. [2\] Había aumentado las cuitas de los soldados la prematura llegada del mal tiempo, con lluvias continuas y tan recias que no podían salir de las tiendas, ni reunirse unos con otros, y apenas tener cuidado de los estandartes, que eran arrebatados por el vendaval y las aguas. [3\] Permanecía además en ellos el miedo de la ira celestial: no en vano menguaban los astros y se precipitaban las tempestades como respuesta a su impiedad; no había otro remedio para sus males —pensaban— que el abandonar aquel campamento maldito y profanado, y que purificado por medio de un sacrificio expiatorio volviera cada cual a su acuartelamiento de invierno. [4\] Partió primero la legión VIII, luego la XV; los de la IX clamaban una y otra vez que había que esperar la respuesta de Tiberio; luego, abandonados por la marcha de los otros, decidieron afrontar por las buenas la necesidad que se les imponía. [5\] Y así Druso, sin esperar el regreso de los comisionados, puesto que la situación se había calmado bastante, volvió a la Ciudad.
+
+### Notas de José Luis Moralejo
+
+67\. Se trata de un poder a ejercer fuera de Roma con las mismas atribuciones que un cónsul, y generalmente destinado al desempeño de un mando militar en campaña.
+
+68\. Provincia limitada al N. y E. por el Danubio, y al O. y S. por los Alpes; su territorio venía a corresponder a la mitad occidental de la actual Hungría.
+
+69\. Cónsul en el 10 d. C. Su fortuna política se vio favorecida por la privanza de su sobrino Sejano con Tiberio.
+
+70\. Centuriones y tribunos —unos 60 y 6, respectivamente, para los aproximadamente 5\. 500 hombres de cada legión— correspondían, más o menos, a las actuales categorías de oficiales y jefes. Al mando de la legión había un _legatus_.
+
+71\. Estos tiempos de servicio en filas, desmesurados para una mentalidad moderna, están acreditados por la documentación complementaria. Se había llegado prácticamente al tipo del soldado profesional, aunque no fuera voluntario. Augusto fijó en dieciséis años el tiempo de permanencia en filas, aunque de hecho la limitación no parece haber sido cumplida.
+
+72\. Efectivamente, los veteranos eran retenidos en los campamentos en alojamientos aparte y para servicios especiales, hasta el momento en que se tuviera a bien darles la verdadera licencia, lo que oficialmente ocurría a los cuatro años de concluir el servicio activo de dieciséis.
+
+73\. Se trata de los reglamentarios repartos de tierras a los soldados veteranos.
+
+74\. Todos estos gastos corrían, en efecto, a cargo de los soldados. Además, parece que era normal el tráfico de favores por parte de los mandos.
+
+75\. Tal era el lugar donde acampaban los veteranos en el campamento.
+
+76\. Las de la guarnición de Roma.
+
+77\. Las águilas eran las enseñas de las legiones. Las cohortes no es seguro que tuvieran una enseña de conjunto para cada una de ellas, sino que parece que utilizaban como tal la de su primer manípulo o pelotón (cf. M. MARÍN Y PEÑA, _Instituciones Militares Romanas_, Madrid, 1956, págs. 377 y sig. ).
+
+78\. El _tribunal_ era un arengario, generalmente construido por amontonamiento de terrones de césped, situado en el foro del campamento.
+
+79\. Para erigir el tribunal.
+
+80\. El manípulo era una unidad intermedia compuesta de dos centurias.
+
+81\. Estatuto jurídico que la equiparaba a la mayoría de las ciudades de Italia. Nauporto corresponde a Oberleibach, en Carniola (Yugoslavia).
+
+82\. Mando creado por Augusto con la finalidad de velar por el mantenimiento de la disciplina.
+
+83\. La vara de vid era atributo del centurión, que con ella castigaba la indisciplina de los soldados. El mote que éstos habían puesto al centurión era, en latín, el de _Cedo alteram_.
+
+84\. Primera mención del que será más tarde privado de Tiberio. Compartía con su padre la prefectura del pretorio, jefatura de la guarnición de Roma.
+
+85\. Se refiere a Druso, que siendo hijo de Tiberio hereda tal apellido cuando su padre es adoptado por César Augusto.
 
 ## 31-52\. Motín de las legiones de Germania
 
@@ -133,13 +308,75 @@ lado de Germánico. Y él, con su dolor y su ira todavía reciente, habló así 
 
 52\. La noticia de estos sucesos provocó en Tiberio alegría y preocupación: se alegraba del aplastamiento de la sedición, pero el que Germánico se hubiera ganado el favor de los soldados con donativos pecuniarios y adelantándoles el licénciamiento, así como su gloria militar, le producía inquietud. [2\] De todos modos dio cuenta al senado de sus hazañas e hizo grandes elogios de su valor, con palabras demasiado amañadas y ampulosas para que pareciera que lo sentía de verdad. [3\] Más brevemente alabó a Druso y el final del motín del Ilírico, aunque con un discurso más entusiasta y sincero. [4\] Todas las concesiones que Germánico había hecho a los ejércitos las mantuvo, incluso para los de Panonia.
 
+### Notas de José Luis Moralejo
+
+85\. Se refiere a Druso, que siendo hijo de Tiberio hereda tal apellido cuando su padre es adoptado por César Augusto.
+
+86\. Pueblo que habitaba en la región de la actual Colonia.
+
+87\. Costumbre tradicional en Roma era la de los _cognomina_ que los generales victoriosos tomaban de sus campañas. Aquí se refiere al de Germánico, atribuido a Druso el mayor y heredado por su hijo.
+
+88\. El emperador Caligula, asesinado en el año 41.
+
+89\. Nerón, Druso, Caligula y Agripina; más tarde nacieron Drusila y Livíla.
+
+90\. La que luego será Colonia.
+
+91\. Pueblo costero, entre los ríos Ems y Weser.
+
+92\. Santuario fundado por Augusto en Colonia.
+
+93\. Con el estandarte le retiraba su obediencia.
+
+94\. Pueblo que da nombre a Tréveris (Trier).
+
+95\. Calígula es diminutivo de _caliga_, sandalia típicamente militar.
+
+96\. El término que traducimos por «ciudadanos» es el tradicional _Quirites_; en este caso el tono es claramente despectivo.
+
+97\. Teatro de la batalla naval que en el 31 a. C. dio a Augusto la victoria sobre Antonio y el poder absoluto sobre Roma y el mundo romano, situado en la entrada del golfo de Ambracia, en el límite S, del Epiro, extremo NO. de la Grecia actual.
+
+98\. Germánico era en realidad sobrino de Tiberio, como hijo de su hermano Druso, pero debe recordarse que cuando Augusto adoptó a Tiberio hizo que éste a su vez adoptara a Germánico.
+
+99\. Véase 3, 6.
+
+100\. Es decir, que estallaban en violencias intestinas.
+
+101\. La _Raetia_ era una provincia limitada por el Danubio al N. , el Rin al O. , los Alpes al S. y al E. por la del _Noricum_; su territorio coincidía con el de la actual Suiza (Grisones), Baviera y Tirol.
+
+102\. _Castra Vetera_, es decir, Campamento Viejo; estaba situado en las cercanías de la actual Xanten.
+
+103\. Druso y Germánico.
+
+104\. Se trata de una bien conocida sententia de Tácito: _maior e longinquo reuerentia_.
+
+105\. De localización incierta.
+
+106\. Pueblo situado entre el Lippe y el Ruhr.
+
+107\. Pueblos situados entre el Lippe y el Ems.
+
 ## 53-54\. Otros sucesos del año 14 d. C
 
 53\. El mismo año aconteció el óbito de Julia<sup>108</sup>, recluida tiempo atrás por su padre Augusto, a causa de sus escándalos, en la isla de Pandateria, y luego en la ciudad de Reggio, situada junto al estrecho de Sicilia. Había estado casada con Tiberio en los buenos días de Gayo y Lucio Césares <sup>109</sup>, y acabó por desdeñarlo como persona que no estaba a su altura; ésta fue la más profunda razón que llevó a Tiberio a retirarse a Rodas. [2\] Una vez que alcanzó el imperio y ella se encontraba proscrita, deshonrada y, tras la muerte de Agripa Póstumo, privada de toda esperanza, la dejó perecer lentamente de hambre y miseria, pensando que su muerte, por lo lejano de su exilio, había de quedar en la oscuridad. [3\] Similar motivo de ensañamiento tenía contra Sempronio Graco, de noble familia, agudo ingenio, y una elocuencia a la que daba mal uso, quien había seducido a la misma Julia cuando estaba casada con Marco Agripa. Y no fue ése el término de su pasión, pues una vez que ella fue entregada a Tiberio, aquel adúltero taimado encendía en ella la resistencia y el odio contra su marido. Una carta que dirigió Julia a su padre Augusto con acusaciones contra Tiberio se creía que había sido redactada por Graco. [4\] Desterrado, pues, a la isla de Cercina<sup>110</sup>, en el mar de Africa, resistió catorce años de exilio. [5\] Luego, los soldados enviados para matarlo lo encontraron sobre un promontorio de la ribera; algo malo se temía. Al llegar ellos les pidió un poco de tiempo para transmitir su última voluntad a su esposa Aliaría por medio de una carta, y luego ofreció su cuello a los verdugos. Por su firmeza ante la muerte no se mostró indigno del nombre de Sempronio, pero en su vida había sido un degenerado. [6\] Cuentan algunos que los soldados no fueron enviados desde Roma, sino por el procónsul de África Lucio Asprenate<sup>111</sup>, instigado por Tiberio, quien en vano esperaba que la responsabilidad de aquella muerte se atribuyera a Asprenate.
 
 54\. Aquel año trajo también nuevos cultos, al instituirse el sacerdocio de los cofrades augustales a la manera en que antaño Tito Tacio había fundado el de los ticios para conservar los ritos sabinos<sup>112</sup>. Se eligieron a suerte veintiún notables de la ciudad, y se añadió a Tiberio y Druso y a Claudio y Germánico. Los Juegos Augustales, que entonces se celebraron [2\] por vez primera, se vieron perturbados por discordias surgidas de la rivalidad entre histriones. Augusto se había mostrado indulgente con tal clase de espectáculos condescendiendo con Mecenas, quien estaba prendado por Batilo<sup>113</sup>; y en realidad tampoco él sentía aversión por esas actividades, por considerar político el mezclarse a las diversiones del vulgo. Distinta era la actitud de Tiberio; pero tras haberse tratado al pueblo con blandura durante tantos años no osaba todavía aplicarle un régimen más severo.
 
-## 55-71\. Campaña de Germánico en Germania
+### Notas de José Luis Moralejo
+
+108\. Seguimos en el año 14 d. C. Julia era la única hija de Augusto, casada sucesivamente con su primo Marcelo, con Agripa —del que dio descendencia al príncipe— y con Tiberio. Fue relegada por sus escándalos en el año 2 d. C, , y se cree que con ellos pudo tener alguna relación el destierro en que acabó su vida el poeta Ovidio. La isla de Pandateria era la actual Vandotena, en la bahía de Nápoles.
+
+109\. Hijos de Julia y Agripa.
+
+110\. Actual Qerqenna, en el golfo de Sidra, frente a la costa de Túnez.
+
+111\. Lucio Nonio Asprenate, cónsul en 6 d. C.
+
+112\. Con el mítico rey Tito Tacio, que compartió con Rómulo el trono de Roma, se integra en la primitiva comunidad latina un núcleo de sabinos, pueblo vecino de estirpe itálica.
+
+113\. Gayo Cilnio Mecenas, caballero romano, tal vez el más íntimo de los amigos de Augusto, fue el intermediario entre el príncipe y los grandes escritores del tiempo, a los que protegió, hasta el punto de que su apellido pasó a designar a todos los «mecenas«. Batilo era un actor de pantomimas.
+
+## 55-72\. Campaña de Germánico en Germania
 
 55\. Durante el consulado de Druso César y Gayo Norbano<sup>114</sup> se concede el triunfo a Germánico, a pesar de la guerra inconclusa. Preparaba la campaña para el verano con todos los recursos disponibles, pero súbitamente la adelantó al inicio de la primavera con un ataque contra los catos<sup>115</sup>. En efecto, había concebido la esperanza de que el enemigo se dividiera entre Arminio y Segestes, señalados ambos el uno por su perfidia para con nosotros, el segundo por su fidelidad. [2\] Arminio andaba siempre revolviendo la Germania; Segestes, como bastantes otras veces, había descubierto a Varo<sup>116</sup> los preparativos de la rebelión también en aquel último banquete tras el cual se había presentado batalla, y le había aconsejado que lo prendiera a él y a Arminio y a los demás notables: nada osaría el pueblo privado de sus príncipes, y así tendría también él ocasión de distinguir a culpables e inocentes. [3\] Pero Varo sucumbió al hado y a la fuerza de Arminio; Segestes, aunque arrastrado a la guerra por el consenso del pueblo, mantenía su disentimiento, acrecentados sus rencores personales porque Arminio había raptado a su hija, prometida a otro; yerno odiado por un suegro enemigo, lo que entre gentes bien avenidas son vínculos de afecto, entre ellos eran motivos para acumular odio sobre odio.
 
@@ -175,6 +412,48 @@ lado de Germánico. Y él, con su dolor y su ira todavía reciente, habló así 
 
 71\. Ya Estertinio, enviado a recoger a Segimero, hermano de Segestes que se había entregado, lo había conducido a él y a su hijo a la ciudad de los ubios. Se otorgó gracia sin dificultad a Segimero, y con más reservas a su hijo, pues se decía que había hecho escarnio del cuerpo de Quintilio Varo. [2\] Por lo demás, para reparar los daños sufridos por el ejército rivalizaron las Galias, las Hispanias e Italia, ofreciendo, según las disponibilidades de cada una, armas, caballos y oro. Germánico, tras alabar ese interés, tomó solamente las armas y los caballos de guerra y socorrió a los soldados con su propio dinero. [3\] Además, para suavizar también con la benevolencia el recuerdo del desastre procuraba visitar a los heridos y ensalzar las hazañas de cada cual; examinando las heridas, a unos con la esperanza, a otros con la gloria, a todos con su palabra y su desvelo se los ganaba para sí y los robustecía cara a la guerra.
 
+### Notas de José Luis Moralejo
+
+114\. Comienza la historia del año 15 d. C.
+
+115\. Pueblo situado entre el Rin y el Weser.
+
+116\. En 9 d. C. ; véase nota 124.
+
+117\. Cerca de Maguncia.
+
+118\. El nombre latino es _Adrana_.
+
+119\. _Mattium_, donde hoy está Wiesbaden,
+
+120\. El pueblo de los _Cherusci_ habitaba entre el Weser y el Elba.
+
+121\. Tácito se refiere a una parte perdida de su obra.
+
+122\. Se refiere al sacerdocio del Altar de los Ubios conferido a Segismundo, según se narra en 57, 2.
+
+123\. Pueblo costero, entre el Rin y el Ems.
+
+124\. En el año 9 d. C. el legado Quintilio Varo se vio encerrado con sus tres legiones en el _Teutoburgiensis saltus_, que se tiende hoy a localizar entre Bielefeld-Iburg y los montes Wiehen, en la zona limitada por los ríos Ems y Lippe, en el actual confín de Westfalia con Baja Sajonia. Los germanos cercaron al ejército romano, que mal podía desenvolverse en un bosque pantanoso, y lo aniquilaron. Varo se quitó la vida. Fue uno de los peores desastres de la historia militar romana, y amargó a Augusto sus últimos años. Como crónica de la batalla y sus antecedentes puede verse VELEYO PATÉCULO, II 117-120.
+
+125\. Germánico, entrado en la familia de los Césares al ser adoptado por su tío Tiberio, adoptado a su vez por Augusto.
+
+126\. La ceremonia adivinatoria del _augurium_ acompañaba la toma de posesión de los mandos y magistraturas superiores.
+
+127\. Cónsul en 16 d. C.
+
+128\. Los campamentos romanos tenían, por lo general, las puertas llamadas _praetoria_, _principalis dextra_, _principalis sinistra_ y *decuman*a. Esta última recibe su nombre del hecho de encontrarse tras el emplazamiento de los décimos manípulos; las vías que unen las cuatro puertas se cruzan perpendicularmente.
+
+129\. Se refiere a Plinio el Viejo (23-79 d. C. ). Escribió una obra en 20 libros, hoy perdida, sobre las guerras de Germania.
+
+130\. La inclusión de _studia_ se debe a Heraeus.
+
+131\. Véase nota 95.
+
+132\. Uno de los amigos íntimos de Germánico que recibieron el encargo de vengar su muerte y presentaron la acusación contra el presunto instigador de la misma, Gneo Pisón; véase especialmente III 10-17.
+
+133\. El aquilón es un viento del Norte. Hemos traducido «por la acción meteorológica del equinoccio» la expresión _sidere aequinoctii_, con la que Tácito presenta metafóricamente al equinoccio de otoño como un astro.
+
 ## 72-81\. Acontecimientos interiores del año 15 d. C
 
 72\. En este año se concedieron los honores del triunfo a Aulo Cécina, a Lucio Apronio y a Gayo Silio por las hazañas realizadas en compañía de Germánico. Tiberio rechazó el título de Padre de la Patria que el pueblo trató varias veces de imponerle; además, no permitió que se jurara por sus actos, a pesar de que así lo había decidido el senado, argumentando que todas las cosas de los mortales son inciertas, y que él, cuanto más consiguiera, más expuesto estaría al fracaso. [2\] Mas no por ello se ganaba crédito de talante liberal, pues había reactualizado la ley de majestad<sup>134</sup>, la cual tenía entre los antiguos el mismo nombre, pero eran otros los casos que por ella se juzgaban: si alguno había dañado al ejército con una traición, o con una sedición a la plebe o, en fin, a la majestad del pueblo romano con la mala gestión de un cargo público; eran los hechos los que se sometían a juicio, quedando impunes las palabras. [3\] Fue Augusto el primero que se escudó en esa ley para perseguir judicialmente los libelos escandalosos, indignado por la desvergüenza de Casio Severo, que había difamado a varones y damas ilustres en escritos procaces. Más tarde Tiberio, cuando el pretor Pompeyo Macro le consultó sobre si debían tramitarse procesos de majestad, le respondió que las leyes había que aplicarlas. [4\] También a él le habían irritado unas coplas publicadas por autores inciertos a cuenta de su crueldad y soberbia, y de sus discordias con su madre.
@@ -196,3 +475,39 @@ lado de Germánico. Y él, con su dolor y su ira todavía reciente, habló así 
 80\. Se prorroga a Popeo Sabino el gobierno de la Mesia<sup>150</sup>, añadiéndosele Acaya y Macedonia. También era costumbre de Tiberio esa de mantener los mandos y conservar casi siempre a las mismas personas hasta el final de sus vidas en los mismos ejércitos o jurisdicciones. [2\] Se suelen dar varias explicaciones: unos dicen que mantenía sus acuerdos como definitivos por huir de nuevas preocupaciones; otros piensan que lo hacía por envidia de que los disfrutaran muchos; hay quienes estiman que tan agudo como era su ingenio, era indeciso su juicio; en efecto, por una parte no buscaba virtudes eminentes, por otra aborrecía los vicios; de los mejores temía un peligro para sí, de los peores un deshonor para el estado. [3\] En tales vacilaciones llegó hasta el extremo de encomendar provincias a algunos a quienes no estaba dispuesto a dejar salir de Roma.
 
 81\. De los comicios consulares que hubo por vez primera bajo su principado y en lo sucesivo, no me atrevería a decir nada seguro: tal es la divergencia de juicios que se encuentran no sólo en los historiadores, sino también en los discursos del propio Tiberio. [2\] Unas veces, sin citar los nombres de los candidatos, describía el origen, la vida y los servicios militares de cada cual, de modo que entendieran de quiénes se trataba; otras, omitiendo incluso esas indicaciones, tras exhortar a los candidatos para que no perturbaran los comicios con intrigas, les prometía su colaboración para ello. Las más de las veces declaraba que sólo se habían presentado ante él los candidatos cuyos nombres había dado a los cónsules: podían presentarse también otros —añadía—, si confiaban en su popularidad o en sus méritos. Palabras especiosas; en realidad, falsedad y engaño; y cuanto mayor era la apariencia de libertad que las cubría, tanto más pararían en implacable esclavitud.
+
+### Notas de José Luis Moralejo
+
+134\. La _Lex maiestatis_, nombre que podría traducirse por _Ley de soberanía_, había sido arbitrada contra los delitos de alta traición; pero, según deja Tácito bien claro, bajo el principado pasó a manipularse profusamente como medio de protección del poder absoluto de los Césares y, más aún, de satisfacer venganzas meramente personales, habida cuenta de la facilidad con que se admitían las acusaciones. A partir de este capítulo los procesos por majestad aparecen, con triste monotonía.
+
+135\. Personajes de los que no hay más noticias. En el manuscrito el primer nombre aparece también en la forma _Faianio_, si bien, corregido en _Falanio_ por la misma mano.
+
+136\. Se trataba, en realidad, de un procónsul, gobernador de una provincia que dependía del senado; el llamarlo _praetor_ supone un arcaísmo. La provincia de Bitinia se halla en el NO. del Asia Menor, y en su costa incluía el lado asiático del Bósforo.
+
+137\. El cuestor era un funcionario de carácter fiscal y financiero; los procónsules en la provincia los tenían como colaboradores inmediatos del mismo modo que los cónsules en Roma.
+
+138\. Los _reciperatores_ eran un equivalente aproximado de los modernos jurados, generalmente elegidos de entre los caballeros romanos.
+
+139\. El adjetivo _curulis_, que parece derivar de _currus_, «carro», pasó de designar en origen las magistraturas que tenían derecho a tal atributo, a referirse a cuanto con tales magistraturas se relacionaba.
+
+140\. Es decir, del orden senatorial, para pertenecer al cual era preciso acreditar la posesión de un determinado patrimonio.
+
+141\. Continúa el año 15 d. C.
+
+142\. El estado romano tenía confiado al colegio sacerdotal de los _Quindecimuiri_ la custodia, consulta y exégesis de una vieja colección de oráculos atribuidos a la Sibila de Cumas. La más antigua recopilación, según la versión tradicional, habría sido vendida al rey Tarquinio Prisco por una misteriosa anciana. La consulta de los libros sibilinos era preceptiva en las situaciones de especial gravedad para Roma, aunque sólo el senado podía ordenarla.
+
+143\. Famoso juriconsulto, cónsul en el año 5 d. C.
+
+144\. Macedonia —al Norte— y Acaya —al Sur— eran las dos provincias en que la Grecia continental estaba estructurada dentro del Imperio Romano. Ambas pertenecían a la categoría de las senatoriales, es decir, de las que por hallarse totalmente pacificadas dependían por entero del poder civil, y estaban por ello bajo el mando de un procónsul o pretor. Por el contrario, aquellas de reciente conquista o que no estaban plenamente sometidas —así como las que por conveniencia se consideraban tales—, quedaban bajo el poder directo del César en cuanto jefe máximo del ejército, y eran administradas por sus legados. Estas provincias parecen haber disfrutado de ventajas fiscales —por de pronto tributaban al _fiscus_ imperial, no al _aerarium_ público—, según se desprende del trato dispensado en esta ocasión a Acaya y Macedonia.
+
+145\. Al haber sido adoptado Germánico por Tiberio, venía a ser ante la ley hermano de Druso.
+
+146\. Entre las regiones del Occidente romano Hispania abrió camino, efectivamente, en el desarrollo del culto al emperador. Ya con anterioridad había en _Tarraco_ un ara dedicada a Augusto; parece que ahora se trata de un templo erigido por toda la provincia.
+
+147\. La diferencia inicial entre municipios y colonias obedecía a la naturaleza de sus habitantes: los primeros estaban constituidos por itálicos que se incorporaban a la vida política romana por la _duitas sine suffragio_, en tanto que las colonias sólo existían si, literalmente, se había dado una colonización por auténticos ciudadanos romanos. Con el paso del tiempo la diferencia ya no obedecía exactamente a tales criterios, aunque la colonia siguió gozando de un estatuto jurídico superior.
+
+148\. Actual Temi.
+
+149\. Actual Rieti.
+
+150\. La provincia de la _Moesia_ venía a corresponder a la mitad septentrional de la actual Bulgaria, limitada al N. por el Danubio y al S. por los Balcanes.
