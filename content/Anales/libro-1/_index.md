@@ -60,7 +60,7 @@ Año 15 d. C. (caps. 55-81)
 
 13\. Tácito reproduce probablemente, y no sin ironía, pala­bras literates de Augusto; véase nota 41.
 
-14\. Marcelo, hijo de Octavia, hermana de Augusto, nació en 43 y murió en 23 a. C. Estuvo casado con Julia, hija del prín­cipe, y fue el primero de los frustrados sucesores de Augusto.
+14\. Marcelo, hijo de Octavia, hermana de Augusto, nació en 43 y murió en 23 a. C. Estuvo casado con Julia, hija del príncipe, y fue el primero de los frustrados sucesores de Augusto.
 
 15\. Marco Vipsanio Agripa, íntimo colaborador militar de Augusto y segundo marido de su única hija Julia, de la que tuvo a Gayo, Ludo, Agripina, Julia y Póstumo Agripa; murió en el 12 a. C.
 
@@ -88,7 +88,7 @@ Año 15 d. C. (caps. 55-81)
 
 27\. Cónsul del año 11 a. C.
 
-28\. Provincia situada en el territorio que corresponde, apro­ximadamente, a la actual Yugoslavia. Tiberio marchaba a hacerse cargo de los ejércitos del Danubio.
+28\. Provincia situada en el territorio que corresponde, aproximadamente, a la actual Yugoslavia. Tiberio marchaba a hacerse cargo de los ejércitos del Danubio.
 
 29\. Ciudad de Campania, a unos 20 kilómetros al NE. de Nápoles.
 
