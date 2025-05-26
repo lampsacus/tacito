@@ -19,4 +19,4 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 852px; height: 755px;' src='https://voyant-tools.org/tool/Cirrus/?view=Cirrus&stopList=keywords-3a0159c0d422d0b4aa839014457c3df9&visible=100&corpus=bb9562f5e4a33f8683c586eb19d1aae1'></iframe>
+<iframe style='width: 600px; height: 752px;' src='https://voyant-tools.org/tool/Cirrus/?view=Cirrus&stopList=keywords-3a0159c0d422d0b4aa839014457c3df9&visible=100&corpus=bb9562f5e4a33f8683c586eb19d1aae1'></iframe>
